@@ -1,0 +1,1001 @@
+Customer_ID,Outlet_Name,City,Customer_Type,Monthly_Orders,Avg_Order_Value_PKR,Products_Purchased,Payment_Delay_Days,Return_Rate_Percent,Months_With_Company,Days_Since_Last_Order,Monthly_Spend_PKR
+GP-0001,Retail Pharmacy KAR-0001,Karachi,Retail Pharmacy,4,19161,6,25,5.0,8,59,76300
+GP-0002,Retail Pharmacy FAI-0002,Faisalabad,Retail Pharmacy,11,47170,8,11,4.6,51,21,515700
+GP-0003,Hospital Pharmacy HYD-0003,Hyderabad,Hospital Pharmacy,5,21315,7,29,10.6,44,72,105300
+GP-0004,Hospital Pharmacy RAW-0004,Rawalpindi,Hospital Pharmacy,10,49477,16,10,3.4,51,11,472600
+GP-0005,Retail Pharmacy KAR-0005,Karachi,Retail Pharmacy,19,87831,23,0,1.3,24,11,1618100
+GP-0006,Retail Pharmacy FAI-0006,Faisalabad,Retail Pharmacy,4,18810,7,25,7.8,33,55,77100
+GP-0007,Retail Pharmacy SIA-0007,Sialkot,Retail Pharmacy,4,20969,8,31,6.0,31,53,82900
+GP-0008,Retail Pharmacy HYD-0008,Hyderabad,Retail Pharmacy,3,26236,7,16,8.4,26,65,77100
+GP-0009,Distributor KAR-0009,Karachi,Distributor,22,83937,27,0,1.9,114,4,1837000
+GP-0010,Retail Pharmacy KAR-0010,Karachi,Retail Pharmacy,11,44065,13,9,3.3,61,26,465400
+GP-0011,Retail Pharmacy KAR-0011,Karachi,Retail Pharmacy,11,56006,12,9,3.7,6,8,593300
+GP-0012,Retail Pharmacy KAR-0012,Karachi,Retail Pharmacy,9,17187,9,25,7.9,25,48,161800
+GP-0013,Retail Pharmacy FAI-0013,Faisalabad,Retail Pharmacy,6,48879,11,7,5.2,42,16,310600
+GP-0014,Retail Pharmacy SIA-0014,Sialkot,Retail Pharmacy,7,24214,8,32,8.2,33,67,173000
+GP-0015,Hospital Pharmacy LAH-0015,Lahore,Hospital Pharmacy,7,40149,18,14,3.6,15,26,294300
+GP-0016,Distributor KAR-0016,Karachi,Distributor,24,93827,26,0,1.8,44,7,2326100
+GP-0017,Retail Pharmacy KAR-0017,Karachi,Retail Pharmacy,14,42113,11,1,3.6,24,10,560800
+GP-0018,Hospital Pharmacy LAH-0018,Lahore,Hospital Pharmacy,20,87900,24,3,0.0,16,12,1696500
+GP-0019,Retail Pharmacy MUL-0019,Multan,Retail Pharmacy,5,18502,8,30,8.9,28,53,94200
+GP-0020,Retail Pharmacy ISL-0020,Islamabad,Retail Pharmacy,10,56256,5,4,3.5,33,8,578400
+GP-0021,Retail Pharmacy RAW-0021,Rawalpindi,Retail Pharmacy,8,32711,5,20,3.2,22,33,259100
+GP-0022,Hospital Pharmacy MUL-0022,Multan,Hospital Pharmacy,8,49657,15,12,5.3,22,7,376600
+GP-0023,Retail Pharmacy KAR-0023,Karachi,Retail Pharmacy,3,23374,7,22,9.0,20,73,66400
+GP-0024,Retail Pharmacy KAR-0024,Karachi,Retail Pharmacy,2,14977,9,16,6.0,30,30,28600
+GP-0025,Retail Pharmacy HYD-0025,Hyderabad,Retail Pharmacy,3,15283,10,25,6.0,21,63,48200
+GP-0026,Retail Pharmacy KAR-0026,Karachi,Retail Pharmacy,14,48752,18,7,3.1,69,5,723200
+GP-0027,Retail Pharmacy KAR-0027,Karachi,Retail Pharmacy,12,37810,14,13,2.3,14,12,453400
+GP-0028,Retail Pharmacy SIA-0028,Sialkot,Retail Pharmacy,21,67697,22,5,3.4,88,7,1436900
+GP-0029,Retail Pharmacy LAH-0029,Lahore,Retail Pharmacy,24,78883,21,0,0.2,81,4,1908600
+GP-0030,Retail Pharmacy ISL-0030,Islamabad,Retail Pharmacy,8,37343,14,10,3.3,58,28,294800
+GP-0031,Retail Pharmacy KAR-0031,Karachi,Retail Pharmacy,10,41960,10,13,4.9,69,21,442000
+GP-0032,Distributor LAH-0032,Lahore,Distributor,3,27073,8,34,6.6,42,55,84700
+GP-0033,Retail Pharmacy ISL-0033,Islamabad,Retail Pharmacy,10,45254,8,10,5.2,41,30,434100
+GP-0034,Retail Pharmacy PES-0034,Peshawar,Retail Pharmacy,11,50609,8,7,2.6,39,8,548300
+GP-0035,Hospital Pharmacy KAR-0035,Karachi,Hospital Pharmacy,12,45628,7,6,0.0,31,25,522500
+GP-0036,Hospital Pharmacy PES-0036,Peshawar,Hospital Pharmacy,21,95592,30,2,0.3,86,7,1926300
+GP-0037,Retail Pharmacy FAI-0037,Faisalabad,Retail Pharmacy,15,80974,25,4,1.7,76,0,1191900
+GP-0038,Distributor KAR-0038,Karachi,Distributor,11,59784,20,12,8.1,34,21,652000
+GP-0039,Retail Pharmacy LAH-0039,Lahore,Retail Pharmacy,18,64578,30,4,2.7,58,2,1099000
+GP-0040,Hospital Pharmacy QUE-0040,Quetta,Hospital Pharmacy,11,67441,15,8,3.4,33,12,737000
+GP-0041,Distributor KAR-0041,Karachi,Distributor,12,50664,16,5,5.9,57,25,632000
+GP-0042,Hospital Pharmacy SIA-0042,Sialkot,Hospital Pharmacy,1,23343,9,27,7.6,46,53,23900
+GP-0043,Retail Pharmacy ISL-0043,Islamabad,Retail Pharmacy,10,27231,12,16,4.5,20,8,286400
+GP-0044,Retail Pharmacy FAI-0044,Faisalabad,Retail Pharmacy,11,26159,17,13,4.9,10,15,278600
+GP-0045,Retail Pharmacy KAR-0045,Karachi,Retail Pharmacy,3,17225,7,25,7.0,32,60,53500
+GP-0046,Distributor FAI-0046,Faisalabad,Distributor,6,38260,7,39,8.9,24,65,237000
+GP-0047,Retail Pharmacy RAW-0047,Rawalpindi,Retail Pharmacy,14,44631,10,14,5.0,53,22,657600
+GP-0048,Retail Pharmacy KAR-0048,Karachi,Retail Pharmacy,6,45132,12,8,2.1,60,2,268200
+GP-0049,Retail Pharmacy KAR-0049,Karachi,Retail Pharmacy,14,41703,13,20,3.5,26,27,553000
+GP-0050,Retail Pharmacy PES-0050,Peshawar,Retail Pharmacy,19,97073,22,10,3.6,68,5,1882400
+GP-0051,Retail Pharmacy SIA-0051,Sialkot,Retail Pharmacy,22,90851,22,0,0.4,21,0,1910300
+GP-0052,Retail Pharmacy KAR-0052,Karachi,Retail Pharmacy,12,75520,21,9,1.4,98,0,883500
+GP-0053,Distributor RAW-0053,Rawalpindi,Distributor,5,33349,8,29,7.7,27,29,162900
+GP-0054,Retail Pharmacy KAR-0054,Karachi,Retail Pharmacy,7,39817,9,11,5.1,14,8,289400
+GP-0055,Retail Pharmacy KAR-0055,Karachi,Retail Pharmacy,11,41094,13,1,7.0,41,16,432000
+GP-0056,Retail Pharmacy LAH-0056,Lahore,Retail Pharmacy,1,10064,6,18,6.4,3,70,10700
+GP-0057,Distributor FAI-0057,Faisalabad,Distributor,10,50149,18,15,0.8,50,15,495900
+GP-0058,Retail Pharmacy RAW-0058,Rawalpindi,Retail Pharmacy,7,61078,9,13,2.6,68,4,447500
+GP-0059,Retail Pharmacy LAH-0059,Lahore,Retail Pharmacy,20,95730,21,0,2.4,69,2,1844600
+GP-0060,Distributor KAR-0060,Karachi,Distributor,19,76944,23,1,2.6,57,8,1534400
+GP-0061,Retail Pharmacy KAR-0061,Karachi,Retail Pharmacy,7,34538,10,5,5.1,6,17,234600
+GP-0062,Hospital Pharmacy PES-0062,Peshawar,Hospital Pharmacy,10,33507,11,10,0.7,45,23,323300
+GP-0063,Hospital Pharmacy ISL-0063,Islamabad,Hospital Pharmacy,8,46956,10,0,2.5,29,23,374700
+GP-0064,Retail Pharmacy HYD-0064,Hyderabad,Retail Pharmacy,3,23456,7,25,10.2,8,54,72500
+GP-0065,Retail Pharmacy KAR-0065,Karachi,Retail Pharmacy,6,40188,16,12,3.7,30,17,234400
+GP-0066,Retail Pharmacy LAH-0066,Lahore,Retail Pharmacy,10,36897,13,23,4.5,23,4,354000
+GP-0067,Hospital Pharmacy FAI-0067,Faisalabad,Hospital Pharmacy,13,50098,17,0,4.6,60,27,636100
+GP-0068,Hospital Pharmacy FAI-0068,Faisalabad,Hospital Pharmacy,10,51012,17,2,4.0,34,23,525100
+GP-0069,Hospital Pharmacy PES-0069,Peshawar,Hospital Pharmacy,18,96800,19,3,3.0,56,5,1802400
+GP-0070,Retail Pharmacy QUE-0070,Quetta,Retail Pharmacy,11,39529,11,3,1.4,53,19,456600
+GP-0071,Retail Pharmacy SIA-0071,Sialkot,Retail Pharmacy,20,101377,26,1,1.8,66,6,2097600
+GP-0072,Distributor LAH-0072,Lahore,Distributor,10,60224,14,3,4.5,23,23,567900
+GP-0073,Hospital Pharmacy KAR-0073,Karachi,Hospital Pharmacy,3,32462,7,27,7.5,22,42,102600
+GP-0074,Hospital Pharmacy KAR-0074,Karachi,Hospital Pharmacy,19,67238,22,0,1.3,112,7,1236200
+GP-0075,Distributor KAR-0075,Karachi,Distributor,18,102192,17,4,1.3,66,13,1773600
+GP-0076,Hospital Pharmacy HYD-0076,Hyderabad,Hospital Pharmacy,4,54620,14,5,3.1,27,17,209800
+GP-0077,Retail Pharmacy KAR-0077,Karachi,Retail Pharmacy,7,37035,17,15,2.6,27,17,267800
+GP-0078,Distributor FAI-0078,Faisalabad,Distributor,10,52569,11,8,1.9,34,22,544400
+GP-0079,Retail Pharmacy LAH-0079,Lahore,Retail Pharmacy,14,47559,8,13,3.1,44,11,650500
+GP-0080,Retail Pharmacy KAR-0080,Karachi,Retail Pharmacy,3,16733,5,31,10.4,58,59,50900
+GP-0081,Retail Pharmacy KAR-0081,Karachi,Retail Pharmacy,8,37329,9,5,2.2,55,15,296500
+GP-0082,Retail Pharmacy MUL-0082,Multan,Retail Pharmacy,9,38937,12,4,5.7,44,28,350100
+GP-0083,Retail Pharmacy RAW-0083,Rawalpindi,Retail Pharmacy,6,26259,6,6,8.4,42,35,166300
+GP-0084,Retail Pharmacy ISL-0084,Islamabad,Retail Pharmacy,24,56441,22,4,0.0,53,4,1366000
+GP-0085,Distributor KAR-0085,Karachi,Distributor,18,99178,27,2,1.9,18,3,1872100
+GP-0086,Hospital Pharmacy ISL-0086,Islamabad,Hospital Pharmacy,23,58926,17,4,2.0,50,5,1435600
+GP-0087,Retail Pharmacy SIA-0087,Sialkot,Retail Pharmacy,9,24030,14,15,2.7,51,21,214700
+GP-0088,Distributor SIA-0088,Sialkot,Distributor,9,63648,15,5,4.9,40,19,582200
+GP-0089,Hospital Pharmacy LAH-0089,Lahore,Hospital Pharmacy,17,78807,24,6,0.5,15,0,1381400
+GP-0090,Retail Pharmacy RAW-0090,Rawalpindi,Retail Pharmacy,12,37226,13,9,4.7,24,21,421100
+GP-0091,Retail Pharmacy HYD-0091,Hyderabad,Retail Pharmacy,15,86523,18,7,2.1,63,9,1247800
+GP-0092,Retail Pharmacy QUE-0092,Quetta,Retail Pharmacy,11,50847,10,7,2.4,6,8,545900
+GP-0093,Retail Pharmacy ISL-0093,Islamabad,Retail Pharmacy,6,49523,16,8,1.0,43,17,301100
+GP-0094,Hospital Pharmacy PES-0094,Peshawar,Hospital Pharmacy,11,58486,12,5,3.6,26,2,639900
+GP-0095,Retail Pharmacy LAH-0095,Lahore,Retail Pharmacy,7,38008,15,13,4.9,15,15,250500
+GP-0096,Distributor MUL-0096,Multan,Distributor,11,46049,16,12,5.8,6,2,501500
+GP-0097,Retail Pharmacy RAW-0097,Rawalpindi,Retail Pharmacy,6,33156,15,1,3.9,14,24,210100
+GP-0098,Retail Pharmacy MUL-0098,Multan,Retail Pharmacy,23,55650,21,0,0.4,95,10,1261200
+GP-0099,Retail Pharmacy HYD-0099,Hyderabad,Retail Pharmacy,17,61429,22,0,1.4,20,0,1066100
+GP-0100,Retail Pharmacy LAH-0100,Lahore,Retail Pharmacy,7,21366,6,11,7.4,9,40,148600
+GP-0101,Retail Pharmacy SIA-0101,Sialkot,Retail Pharmacy,3,22068,5,21,5.5,31,46,64500
+GP-0102,Retail Pharmacy KAR-0102,Karachi,Retail Pharmacy,12,40877,11,10,2.0,53,28,467500
+GP-0103,Retail Pharmacy KAR-0103,Karachi,Retail Pharmacy,11,44535,10,10,2.8,32,14,490800
+GP-0104,Retail Pharmacy LAH-0104,Lahore,Retail Pharmacy,2,23539,7,25,7.2,30,64,48700
+GP-0105,Distributor FAI-0105,Faisalabad,Distributor,8,23119,8,26,4.2,41,54,174200
+GP-0106,Hospital Pharmacy ISL-0106,Islamabad,Hospital Pharmacy,12,35413,19,13,6.4,41,16,425200
+GP-0107,Retail Pharmacy KAR-0107,Karachi,Retail Pharmacy,11,43132,10,11,2.0,9,16,461900
+GP-0108,Retail Pharmacy HYD-0108,Hyderabad,Retail Pharmacy,9,54774,11,13,4.2,53,13,503600
+GP-0109,Retail Pharmacy KAR-0109,Karachi,Retail Pharmacy,21,89994,24,9,0.4,38,2,1906200
+GP-0110,Distributor KAR-0110,Karachi,Distributor,2,33259,7,31,7.7,33,90,70000
+GP-0111,Hospital Pharmacy FAI-0111,Faisalabad,Hospital Pharmacy,7,33573,19,11,3.5,35,19,238200
+GP-0112,Distributor KAR-0112,Karachi,Distributor,19,94146,20,0,1.9,32,4,1762700
+GP-0113,Retail Pharmacy LAH-0113,Lahore,Retail Pharmacy,8,46665,13,5,5.5,54,17,373500
+GP-0114,Retail Pharmacy RAW-0114,Rawalpindi,Retail Pharmacy,11,44755,14,11,4.1,54,22,481000
+GP-0115,Retail Pharmacy QUE-0115,Quetta,Retail Pharmacy,25,81336,16,1,1.5,49,8,2058400
+GP-0116,Retail Pharmacy HYD-0116,Hyderabad,Retail Pharmacy,4,23537,7,29,8.0,20,53,98400
+GP-0117,Distributor LAH-0117,Lahore,Distributor,5,31498,9,17,6.9,27,51,154700
+GP-0118,Retail Pharmacy RAW-0118,Rawalpindi,Retail Pharmacy,13,43882,18,8,2.8,31,18,572300
+GP-0119,Hospital Pharmacy KAR-0119,Karachi,Hospital Pharmacy,13,47202,13,22,2.9,24,19,620800
+GP-0120,Retail Pharmacy PES-0120,Peshawar,Retail Pharmacy,10,42428,14,6,4.3,50,8,415300
+GP-0121,Hospital Pharmacy RAW-0121,Rawalpindi,Hospital Pharmacy,8,42902,11,16,4.9,63,20,327300
+GP-0122,Distributor QUE-0122,Quetta,Distributor,8,45237,12,9,4.5,39,7,370800
+GP-0123,Retail Pharmacy KAR-0123,Karachi,Retail Pharmacy,19,105574,23,0,0.1,60,1,1918400
+GP-0124,Retail Pharmacy LAH-0124,Lahore,Retail Pharmacy,11,49534,9,6,4.3,6,16,529300
+GP-0125,Retail Pharmacy FAI-0125,Faisalabad,Retail Pharmacy,17,70986,21,3,2.9,54,7,1266100
+GP-0126,Retail Pharmacy PES-0126,Peshawar,Retail Pharmacy,9,50113,15,16,2.7,38,28,464600
+GP-0127,Hospital Pharmacy ISL-0127,Islamabad,Hospital Pharmacy,6,49094,12,10,2.4,43,10,296600
+GP-0128,Distributor KAR-0128,Karachi,Distributor,21,107911,21,0,0.9,37,11,2371600
+GP-0129,Retail Pharmacy MUL-0129,Multan,Retail Pharmacy,19,93981,19,0,2.3,46,9,1834600
+GP-0130,Retail Pharmacy KAR-0130,Karachi,Retail Pharmacy,13,33670,12,13,5.6,14,2,438900
+GP-0131,Retail Pharmacy LAH-0131,Lahore,Retail Pharmacy,22,47095,19,3,2.3,77,4,995600
+GP-0132,Retail Pharmacy MUL-0132,Multan,Retail Pharmacy,3,23706,4,27,7.3,3,64,68600
+GP-0133,Retail Pharmacy KAR-0133,Karachi,Retail Pharmacy,5,54117,12,15,4.7,45,18,282500
+GP-0134,Retail Pharmacy LAH-0134,Lahore,Retail Pharmacy,6,47019,15,15,5.7,57,13,294400
+GP-0135,Retail Pharmacy PES-0135,Peshawar,Retail Pharmacy,9,38588,10,0,4.6,28,13,346800
+GP-0136,Distributor ISL-0136,Islamabad,Distributor,21,113591,26,7,2.3,68,5,2317700
+GP-0137,Retail Pharmacy LAH-0137,Lahore,Retail Pharmacy,4,23726,8,31,2.2,32,50,99100
+GP-0138,Retail Pharmacy FAI-0138,Faisalabad,Retail Pharmacy,12,34880,8,11,3.3,40,16,443000
+GP-0139,Hospital Pharmacy KAR-0139,Karachi,Hospital Pharmacy,5,34289,8,9,8.6,9,47,166500
+GP-0140,Retail Pharmacy KAR-0140,Karachi,Retail Pharmacy,23,86470,24,3,0.6,12,6,2002100
+GP-0141,Retail Pharmacy LAH-0141,Lahore,Retail Pharmacy,14,57129,9,8,7.8,68,19,774500
+GP-0142,Retail Pharmacy RAW-0142,Rawalpindi,Retail Pharmacy,12,33094,11,9,3.5,6,27,376600
+GP-0143,Retail Pharmacy MUL-0143,Multan,Retail Pharmacy,4,19220,7,12,8.4,15,42,77700
+GP-0144,Retail Pharmacy FAI-0144,Faisalabad,Retail Pharmacy,10,25352,14,3,2.7,15,18,239800
+GP-0145,Retail Pharmacy LAH-0145,Lahore,Retail Pharmacy,11,38985,15,11,2.7,6,11,417200
+GP-0146,Distributor RAW-0146,Rawalpindi,Distributor,9,44659,19,2,5.7,65,6,406300
+GP-0147,Retail Pharmacy LAH-0147,Lahore,Retail Pharmacy,4,26249,11,17,4.2,61,13,103400
+GP-0148,Retail Pharmacy QUE-0148,Quetta,Retail Pharmacy,15,29300,15,5,3.6,19,17,419000
+GP-0149,Distributor FAI-0149,Faisalabad,Distributor,11,66507,15,10,2.5,53,20,759600
+GP-0150,Retail Pharmacy ISL-0150,Islamabad,Retail Pharmacy,18,87996,25,1,2.3,42,3,1590100
+GP-0151,Retail Pharmacy FAI-0151,Faisalabad,Retail Pharmacy,3,9024,3,14,6.7,6,30,27200
+GP-0152,Retail Pharmacy KAR-0152,Karachi,Retail Pharmacy,6,25302,6,20,7.7,33,44,157800
+GP-0153,Retail Pharmacy FAI-0153,Faisalabad,Retail Pharmacy,21,87907,21,8,2.0,59,1,1738000
+GP-0154,Retail Pharmacy ISL-0154,Islamabad,Retail Pharmacy,12,55399,12,14,5.1,23,11,668200
+GP-0155,Retail Pharmacy ISL-0155,Islamabad,Retail Pharmacy,12,70875,26,5,2.8,71,6,862500
+GP-0156,Hospital Pharmacy FAI-0156,Faisalabad,Hospital Pharmacy,11,57284,13,7,4.3,54,28,593500
+GP-0157,Hospital Pharmacy RAW-0157,Rawalpindi,Hospital Pharmacy,14,53756,9,9,3.7,6,28,714400
+GP-0158,Retail Pharmacy KAR-0158,Karachi,Retail Pharmacy,9,52741,11,15,4.4,41,20,483400
+GP-0159,Retail Pharmacy KAR-0159,Karachi,Retail Pharmacy,8,28402,14,13,4.6,32,19,226000
+GP-0160,Retail Pharmacy MUL-0160,Multan,Retail Pharmacy,3,34134,3,26,6.8,17,25,102300
+GP-0161,Retail Pharmacy PES-0161,Peshawar,Retail Pharmacy,13,88914,27,7,1.8,89,6,1118200
+GP-0162,Retail Pharmacy QUE-0162,Quetta,Retail Pharmacy,4,23856,3,26,8.3,46,84,99900
+GP-0163,Retail Pharmacy FAI-0163,Faisalabad,Retail Pharmacy,17,65470,26,7,2.8,58,1,1123000
+GP-0164,Retail Pharmacy HYD-0164,Hyderabad,Retail Pharmacy,20,96332,23,5,4.0,70,2,1999200
+GP-0165,Retail Pharmacy MUL-0165,Multan,Retail Pharmacy,13,45582,7,15,6.1,36,12,585000
+GP-0166,Retail Pharmacy KAR-0166,Karachi,Retail Pharmacy,8,41231,14,4,5.2,26,4,325800
+GP-0167,Retail Pharmacy ISL-0167,Islamabad,Retail Pharmacy,4,27047,5,35,5.6,47,40,103700
+GP-0168,Retail Pharmacy RAW-0168,Rawalpindi,Retail Pharmacy,6,30530,5,23,5.0,23,51,191400
+GP-0169,Distributor SIA-0169,Sialkot,Distributor,12,68948,14,9,3.1,50,21,816200
+GP-0170,Hospital Pharmacy PES-0170,Peshawar,Hospital Pharmacy,6,22380,11,19,11.8,8,54,130200
+GP-0171,Distributor KAR-0171,Karachi,Distributor,8,54800,13,11,3.7,47,9,430800
+GP-0172,Retail Pharmacy LAH-0172,Lahore,Retail Pharmacy,6,39196,12,8,4.0,25,14,236700
+GP-0173,Retail Pharmacy LAH-0173,Lahore,Retail Pharmacy,11,40843,13,17,1.3,47,20,431800
+GP-0174,Retail Pharmacy MUL-0174,Multan,Retail Pharmacy,3,11343,6,11,9.6,3,46,35400
+GP-0175,Distributor KAR-0175,Karachi,Distributor,19,123120,28,4,2.2,41,6,2227100
+GP-0176,Retail Pharmacy LAH-0176,Lahore,Retail Pharmacy,24,80741,21,4,2.1,58,0,2027900
+GP-0177,Hospital Pharmacy KAR-0177,Karachi,Hospital Pharmacy,7,46734,14,11,5.6,16,17,332500
+GP-0178,Retail Pharmacy LAH-0178,Lahore,Retail Pharmacy,4,17195,5,17,10.7,5,47,70800
+GP-0179,Hospital Pharmacy SIA-0179,Sialkot,Hospital Pharmacy,3,23332,7,16,11.9,45,46,66300
+GP-0180,Retail Pharmacy RAW-0180,Rawalpindi,Retail Pharmacy,6,52175,15,15,3.7,53,13,295800
+GP-0181,Retail Pharmacy KAR-0181,Karachi,Retail Pharmacy,4,28013,4,27,8.5,37,55,118200
+GP-0182,Hospital Pharmacy SIA-0182,Sialkot,Hospital Pharmacy,6,19573,7,10,8.7,36,76,122000
+GP-0183,Retail Pharmacy FAI-0183,Faisalabad,Retail Pharmacy,10,39151,19,13,4.7,18,13,379500
+GP-0184,Retail Pharmacy KAR-0184,Karachi,Retail Pharmacy,13,46462,12,10,3.1,29,16,591000
+GP-0185,Distributor MUL-0185,Multan,Distributor,3,36034,10,27,8.1,14,46,107000
+GP-0186,Retail Pharmacy KAR-0186,Karachi,Retail Pharmacy,8,35300,12,18,4.4,10,3,272800
+GP-0187,Retail Pharmacy LAH-0187,Lahore,Retail Pharmacy,9,43064,11,3,5.1,55,21,374600
+GP-0188,Distributor KAR-0188,Karachi,Distributor,16,99992,25,9,0.1,115,13,1520900
+GP-0189,Retail Pharmacy SIA-0189,Sialkot,Retail Pharmacy,8,47439,12,12,5.8,40,18,386300
+GP-0190,Retail Pharmacy SIA-0190,Sialkot,Retail Pharmacy,12,37018,9,7,5.2,58,12,425800
+GP-0191,Hospital Pharmacy KAR-0191,Karachi,Hospital Pharmacy,4,17535,11,23,6.3,11,52,70900
+GP-0192,Retail Pharmacy FAI-0192,Faisalabad,Retail Pharmacy,31,63881,18,5,1.9,73,11,1973600
+GP-0193,Retail Pharmacy LAH-0193,Lahore,Retail Pharmacy,13,79520,14,0,1.0,69,3,1023600
+GP-0194,Hospital Pharmacy LAH-0194,Lahore,Hospital Pharmacy,6,23505,9,27,6.2,19,52,138300
+GP-0195,Retail Pharmacy KAR-0195,Karachi,Retail Pharmacy,18,69390,18,6,0.9,78,5,1216600
+GP-0196,Retail Pharmacy RAW-0196,Rawalpindi,Retail Pharmacy,18,72684,22,6,0.6,72,5,1341300
+GP-0197,Distributor MUL-0197,Multan,Distributor,4,59156,20,17,2.5,56,29,238000
+GP-0198,Retail Pharmacy KAR-0198,Karachi,Retail Pharmacy,3,16604,8,29,4.3,19,54,48100
+GP-0199,Retail Pharmacy SIA-0199,Sialkot,Retail Pharmacy,24,68182,12,0,1.4,43,11,1559900
+GP-0200,Hospital Pharmacy KAR-0200,Karachi,Hospital Pharmacy,9,46828,15,17,5.1,61,19,400800
+GP-0201,Retail Pharmacy LAH-0201,Lahore,Retail Pharmacy,3,7000,2,16,7.2,27,58,21900
+GP-0202,Retail Pharmacy FAI-0202,Faisalabad,Retail Pharmacy,5,16214,6,12,5.6,54,71,76300
+GP-0203,Retail Pharmacy KAR-0203,Karachi,Retail Pharmacy,10,37743,12,11,3.8,26,11,366000
+GP-0204,Retail Pharmacy HYD-0204,Hyderabad,Retail Pharmacy,19,81370,17,2,3.4,65,6,1564200
+GP-0205,Retail Pharmacy ISL-0205,Islamabad,Retail Pharmacy,20,109072,20,1,4.1,78,0,2054800
+GP-0206,Hospital Pharmacy SIA-0206,Sialkot,Hospital Pharmacy,27,64823,23,2,2.9,54,0,1691800
+GP-0207,Retail Pharmacy KAR-0207,Karachi,Retail Pharmacy,19,79542,25,1,2.9,68,2,1579300
+GP-0208,Hospital Pharmacy QUE-0208,Quetta,Hospital Pharmacy,7,63292,15,7,4.0,53,15,426900
+GP-0209,Hospital Pharmacy SIA-0209,Sialkot,Hospital Pharmacy,20,95686,20,4,2.3,63,9,1857500
+GP-0210,Retail Pharmacy MUL-0210,Multan,Retail Pharmacy,13,41928,10,8,3.4,48,17,534100
+GP-0211,Retail Pharmacy LAH-0211,Lahore,Retail Pharmacy,12,34591,10,10,2.3,29,13,435100
+GP-0212,Retail Pharmacy KAR-0212,Karachi,Retail Pharmacy,13,44793,19,11,4.0,43,14,559500
+GP-0213,Retail Pharmacy SIA-0213,Sialkot,Retail Pharmacy,23,80700,17,5,0.9,60,10,1878000
+GP-0214,Retail Pharmacy LAH-0214,Lahore,Retail Pharmacy,3,13792,6,19,8.5,7,43,43700
+GP-0215,Hospital Pharmacy KAR-0215,Karachi,Hospital Pharmacy,13,41455,17,6,2.3,65,29,550000
+GP-0216,Distributor MUL-0216,Multan,Distributor,7,49022,17,15,4.1,53,16,333200
+GP-0217,Retail Pharmacy ISL-0217,Islamabad,Retail Pharmacy,21,93801,28,5,2.5,45,6,1858000
+GP-0218,Retail Pharmacy RAW-0218,Rawalpindi,Retail Pharmacy,21,80411,24,5,2.4,59,6,1774300
+GP-0219,Retail Pharmacy QUE-0219,Quetta,Retail Pharmacy,5,16647,6,19,4.8,43,42,85200
+GP-0220,Retail Pharmacy PES-0220,Peshawar,Retail Pharmacy,10,70285,11,11,4.6,55,13,724800
+GP-0221,Retail Pharmacy MUL-0221,Multan,Retail Pharmacy,11,34819,13,9,2.8,91,12,383900
+GP-0222,Retail Pharmacy KAR-0222,Karachi,Retail Pharmacy,10,47920,13,13,4.5,20,11,503300
+GP-0223,Retail Pharmacy LAH-0223,Lahore,Retail Pharmacy,13,49197,15,10,1.4,55,21,622000
+GP-0224,Retail Pharmacy ISL-0224,Islamabad,Retail Pharmacy,2,11262,5,27,4.3,9,60,21400
+GP-0225,Retail Pharmacy ISL-0225,Islamabad,Retail Pharmacy,6,35603,12,5,5.6,12,15,217200
+GP-0226,Hospital Pharmacy MUL-0226,Multan,Hospital Pharmacy,3,31989,7,31,6.3,31,56,93400
+GP-0227,Retail Pharmacy KAR-0227,Karachi,Retail Pharmacy,20,77200,24,0,2.3,31,9,1558600
+GP-0228,Retail Pharmacy ISL-0228,Islamabad,Retail Pharmacy,14,43768,8,2,3.1,20,18,594800
+GP-0229,Hospital Pharmacy SIA-0229,Sialkot,Hospital Pharmacy,12,33516,13,17,5.3,28,8,404400
+GP-0230,Retail Pharmacy FAI-0230,Faisalabad,Retail Pharmacy,23,63029,26,0,2.1,71,6,1485800
+GP-0231,Retail Pharmacy PES-0231,Peshawar,Retail Pharmacy,23,80415,26,3,2.8,52,0,1744400
+GP-0232,Retail Pharmacy KAR-0232,Karachi,Retail Pharmacy,8,39963,12,5,6.4,28,18,306600
+GP-0233,Retail Pharmacy KAR-0233,Karachi,Retail Pharmacy,3,15679,8,21,6.2,3,47,44400
+GP-0234,Retail Pharmacy LAH-0234,Lahore,Retail Pharmacy,8,39402,17,13,6.0,23,12,318400
+GP-0235,Retail Pharmacy RAW-0235,Rawalpindi,Retail Pharmacy,3,14314,6,25,8.1,15,43,44800
+GP-0236,Retail Pharmacy KAR-0236,Karachi,Retail Pharmacy,3,21985,7,37,9.0,70,64,69300
+GP-0237,Retail Pharmacy RAW-0237,Rawalpindi,Retail Pharmacy,7,39004,11,13,4.2,60,15,288600
+GP-0238,Hospital Pharmacy KAR-0238,Karachi,Hospital Pharmacy,6,29153,5,21,8.6,38,52,175400
+GP-0239,Distributor QUE-0239,Quetta,Distributor,18,95491,25,3,1.4,61,0,1721100
+GP-0240,Retail Pharmacy KAR-0240,Karachi,Retail Pharmacy,16,56835,21,5,2.6,28,12,926700
+GP-0241,Retail Pharmacy LAH-0241,Lahore,Retail Pharmacy,5,15039,6,26,5.4,19,62,79600
+GP-0242,Retail Pharmacy KAR-0242,Karachi,Retail Pharmacy,3,14372,6,23,7.4,10,16,40700
+GP-0243,Distributor LAH-0243,Lahore,Distributor,19,104883,25,2,0.3,47,0,1873400
+GP-0244,Distributor KAR-0244,Karachi,Distributor,9,43921,14,11,6.8,25,18,371900
+GP-0245,Hospital Pharmacy LAH-0245,Lahore,Hospital Pharmacy,9,32542,13,5,2.8,17,4,294700
+GP-0246,Retail Pharmacy LAH-0246,Lahore,Retail Pharmacy,4,8921,5,26,5.6,40,62,37100
+GP-0247,Retail Pharmacy RAW-0247,Rawalpindi,Retail Pharmacy,14,47440,12,0,4.2,31,2,681500
+GP-0248,Retail Pharmacy MUL-0248,Multan,Retail Pharmacy,12,44229,15,10,5.6,18,15,530500
+GP-0249,Retail Pharmacy PES-0249,Peshawar,Retail Pharmacy,11,59894,14,3,3.5,40,26,667500
+GP-0250,Retail Pharmacy KAR-0250,Karachi,Retail Pharmacy,10,40443,17,19,4.1,31,16,385400
+GP-0251,Hospital Pharmacy KAR-0251,Karachi,Hospital Pharmacy,12,42733,14,3,6.9,52,21,496100
+GP-0252,Retail Pharmacy RAW-0252,Rawalpindi,Retail Pharmacy,2,19519,7,24,4.4,3,29,38900
+GP-0253,Retail Pharmacy SIA-0253,Sialkot,Retail Pharmacy,5,55789,15,3,5.6,49,14,278900
+GP-0254,Retail Pharmacy QUE-0254,Quetta,Retail Pharmacy,19,92793,22,2,2.8,89,9,1839400
+GP-0255,Hospital Pharmacy ISL-0255,Islamabad,Hospital Pharmacy,21,88662,23,0,1.5,65,1,1933400
+GP-0256,Hospital Pharmacy LAH-0256,Lahore,Hospital Pharmacy,13,45825,16,9,5.0,14,25,587900
+GP-0257,Hospital Pharmacy ISL-0257,Islamabad,Hospital Pharmacy,5,27493,6,27,5.7,40,29,143600
+GP-0258,Distributor HYD-0258,Hyderabad,Distributor,19,107267,25,3,1.1,61,8,1950800
+GP-0259,Retail Pharmacy KAR-0259,Karachi,Retail Pharmacy,25,83001,17,0,3.4,56,5,2041500
+GP-0260,Retail Pharmacy KAR-0260,Karachi,Retail Pharmacy,7,51437,11,14,4.3,45,10,376700
+GP-0261,Retail Pharmacy FAI-0261,Faisalabad,Retail Pharmacy,18,98871,26,1,1.1,34,7,1848500
+GP-0262,Hospital Pharmacy KAR-0262,Karachi,Hospital Pharmacy,4,21978,9,27,8.4,26,38,86300
+GP-0263,Retail Pharmacy LAH-0263,Lahore,Retail Pharmacy,14,49456,9,12,5.1,54,22,664000
+GP-0264,Distributor LAH-0264,Lahore,Distributor,18,68257,26,4,0.5,74,7,1186000
+GP-0265,Retail Pharmacy KAR-0265,Karachi,Retail Pharmacy,5,34210,4,24,5.9,23,38,167400
+GP-0266,Retail Pharmacy RAW-0266,Rawalpindi,Retail Pharmacy,19,110405,21,1,3.2,81,0,2059400
+GP-0267,Retail Pharmacy SIA-0267,Sialkot,Retail Pharmacy,10,50254,8,17,3.9,51,22,490400
+GP-0268,Retail Pharmacy KAR-0268,Karachi,Retail Pharmacy,14,89202,26,1,1.5,67,6,1239700
+GP-0269,Distributor MUL-0269,Multan,Distributor,20,133487,25,0,2.4,76,10,2809000
+GP-0270,Retail Pharmacy ISL-0270,Islamabad,Retail Pharmacy,19,61220,21,7,0.5,26,6,1192400
+GP-0271,Distributor MUL-0271,Multan,Distributor,19,75256,30,2,1.9,91,10,1480600
+GP-0272,Retail Pharmacy ISL-0272,Islamabad,Retail Pharmacy,22,82523,21,9,1.8,60,1,1774000
+GP-0273,Retail Pharmacy KAR-0273,Karachi,Retail Pharmacy,19,57434,22,0,1.9,71,0,1147300
+GP-0274,Distributor KAR-0274,Karachi,Distributor,7,77774,12,13,4.1,25,11,555000
+GP-0275,Distributor FAI-0275,Faisalabad,Distributor,7,58123,12,12,6.0,52,34,419500
+GP-0276,Retail Pharmacy SIA-0276,Sialkot,Retail Pharmacy,13,35892,10,9,2.2,37,9,458100
+GP-0277,Retail Pharmacy MUL-0277,Multan,Retail Pharmacy,11,40910,12,13,3.6,47,15,445400
+GP-0278,Retail Pharmacy LAH-0278,Lahore,Retail Pharmacy,8,35253,14,12,4.4,39,19,296800
+GP-0279,Retail Pharmacy PES-0279,Peshawar,Retail Pharmacy,4,30015,6,27,7.5,13,54,122700
+GP-0280,Hospital Pharmacy HYD-0280,Hyderabad,Hospital Pharmacy,4,20270,7,34,6.1,3,40,85300
+GP-0281,Retail Pharmacy FAI-0281,Faisalabad,Retail Pharmacy,30,73233,16,6,3.1,54,2,2274800
+GP-0282,Retail Pharmacy LAH-0282,Lahore,Retail Pharmacy,19,71542,21,0,0.0,50,7,1346900
+GP-0283,Retail Pharmacy LAH-0283,Lahore,Retail Pharmacy,20,93206,25,4,2.6,50,9,1857400
+GP-0284,Retail Pharmacy KAR-0284,Karachi,Retail Pharmacy,24,65827,19,4,0.0,68,5,1555300
+GP-0285,Retail Pharmacy KAR-0285,Karachi,Retail Pharmacy,15,32059,11,10,3.3,28,28,493400
+GP-0286,Hospital Pharmacy QUE-0286,Quetta,Hospital Pharmacy,6,46432,10,5,3.9,32,22,284100
+GP-0287,Retail Pharmacy ISL-0287,Islamabad,Retail Pharmacy,23,43873,19,3,2.2,66,5,1046700
+GP-0288,Retail Pharmacy MUL-0288,Multan,Retail Pharmacy,13,36411,12,11,3.5,57,27,494100
+GP-0289,Retail Pharmacy LAH-0289,Lahore,Retail Pharmacy,9,40697,14,11,2.3,19,18,359500
+GP-0290,Retail Pharmacy QUE-0290,Quetta,Retail Pharmacy,25,81663,24,3,1.6,30,4,2044100
+GP-0291,Retail Pharmacy KAR-0291,Karachi,Retail Pharmacy,4,7000,6,42,5.4,33,63,27000
+GP-0292,Retail Pharmacy FAI-0292,Faisalabad,Retail Pharmacy,20,53661,18,3,2.2,33,3,1130400
+GP-0293,Retail Pharmacy MUL-0293,Multan,Retail Pharmacy,1,13898,7,35,8.1,24,55,14200
+GP-0294,Retail Pharmacy LAH-0294,Lahore,Retail Pharmacy,16,83222,18,4,2.1,49,0,1283100
+GP-0295,Retail Pharmacy KAR-0295,Karachi,Retail Pharmacy,3,21364,4,20,5.5,6,46,62000
+GP-0296,Retail Pharmacy LAH-0296,Lahore,Retail Pharmacy,5,10609,4,36,7.6,34,40,51900
+GP-0297,Retail Pharmacy KAR-0297,Karachi,Retail Pharmacy,1,36901,3,16,4.0,44,34,35800
+GP-0298,Retail Pharmacy RAW-0298,Rawalpindi,Retail Pharmacy,1,19413,5,18,7.8,29,53,18300
+GP-0299,Retail Pharmacy RAW-0299,Rawalpindi,Retail Pharmacy,4,26774,7,13,5.5,8,28,112300
+GP-0300,Distributor PES-0300,Peshawar,Distributor,11,57442,18,12,6.2,40,16,635400
+GP-0301,Retail Pharmacy KAR-0301,Karachi,Retail Pharmacy,5,29040,6,32,6.9,23,20,152600
+GP-0302,Retail Pharmacy ISL-0302,Islamabad,Retail Pharmacy,19,78337,15,1,1.2,42,9,1547000
+GP-0303,Retail Pharmacy HYD-0303,Hyderabad,Retail Pharmacy,9,40844,10,6,3.1,17,9,350800
+GP-0304,Retail Pharmacy PES-0304,Peshawar,Retail Pharmacy,14,36984,13,11,5.1,54,14,488500
+GP-0305,Retail Pharmacy LAH-0305,Lahore,Retail Pharmacy,2,15761,5,15,9.4,10,57,31700
+GP-0306,Retail Pharmacy QUE-0306,Quetta,Retail Pharmacy,8,48417,10,15,3.0,13,14,374300
+GP-0307,Retail Pharmacy LAH-0307,Lahore,Retail Pharmacy,16,55868,11,9,2.7,61,19,937600
+GP-0308,Hospital Pharmacy KAR-0308,Karachi,Hospital Pharmacy,14,49882,14,17,3.5,38,23,720800
+GP-0309,Retail Pharmacy LAH-0309,Lahore,Retail Pharmacy,6,35013,9,7,3.7,42,20,222600
+GP-0310,Retail Pharmacy KAR-0310,Karachi,Retail Pharmacy,22,68580,23,10,1.1,56,5,1510400
+GP-0311,Retail Pharmacy KAR-0311,Karachi,Retail Pharmacy,6,34336,12,9,3.7,39,12,205400
+GP-0312,Retail Pharmacy LAH-0312,Lahore,Retail Pharmacy,9,48148,13,14,4.9,36,21,454500
+GP-0313,Retail Pharmacy KAR-0313,Karachi,Retail Pharmacy,18,80358,23,1,1.7,12,5,1363000
+GP-0314,Retail Pharmacy LAH-0314,Lahore,Retail Pharmacy,14,32057,10,0,3.4,28,13,454800
+GP-0315,Retail Pharmacy SIA-0315,Sialkot,Retail Pharmacy,9,52235,12,6,3.3,53,4,447800
+GP-0316,Retail Pharmacy KAR-0316,Karachi,Retail Pharmacy,7,47967,7,12,4.7,34,22,320400
+GP-0317,Retail Pharmacy HYD-0317,Hyderabad,Retail Pharmacy,15,39834,14,0,6.2,39,25,575300
+GP-0318,Retail Pharmacy KAR-0318,Karachi,Retail Pharmacy,11,35722,10,15,2.9,23,23,401400
+GP-0319,Distributor KAR-0319,Karachi,Distributor,11,63642,15,15,3.7,18,14,708700
+GP-0320,Retail Pharmacy KAR-0320,Karachi,Retail Pharmacy,4,14156,5,33,5.0,29,53,55800
+GP-0321,Retail Pharmacy HYD-0321,Hyderabad,Retail Pharmacy,4,18525,9,10,11.0,22,51,77300
+GP-0322,Retail Pharmacy KAR-0322,Karachi,Retail Pharmacy,11,35450,10,7,6.0,59,19,368000
+GP-0323,Distributor ISL-0323,Islamabad,Distributor,11,39539,14,11,2.5,36,8,430900
+GP-0324,Hospital Pharmacy PES-0324,Peshawar,Hospital Pharmacy,10,40638,11,8,4.5,6,19,396100
+GP-0325,Retail Pharmacy MUL-0325,Multan,Retail Pharmacy,2,36312,6,26,6.3,13,56,76900
+GP-0326,Retail Pharmacy FAI-0326,Faisalabad,Retail Pharmacy,11,33970,15,6,1.5,6,18,375200
+GP-0327,Retail Pharmacy FAI-0327,Faisalabad,Retail Pharmacy,5,34780,9,21,8.8,41,50,183100
+GP-0328,Retail Pharmacy FAI-0328,Faisalabad,Retail Pharmacy,11,41802,12,16,4.7,72,24,454100
+GP-0329,Retail Pharmacy PES-0329,Peshawar,Retail Pharmacy,17,32267,10,12,6.9,25,19,576200
+GP-0330,Distributor KAR-0330,Karachi,Distributor,8,71256,18,13,4.3,36,17,591400
+GP-0331,Retail Pharmacy KAR-0331,Karachi,Retail Pharmacy,7,35363,9,7,4.0,42,18,257400
+GP-0332,Retail Pharmacy KAR-0332,Karachi,Retail Pharmacy,19,72365,24,0,2.8,22,2,1414800
+GP-0333,Retail Pharmacy KAR-0333,Karachi,Retail Pharmacy,11,53071,11,14,3.3,22,11,568600
+GP-0334,Retail Pharmacy KAR-0334,Karachi,Retail Pharmacy,2,13962,7,36,6.2,35,56,28000
+GP-0335,Retail Pharmacy LAH-0335,Lahore,Retail Pharmacy,25,44990,25,2,3.5,44,3,1084400
+GP-0336,Retail Pharmacy MUL-0336,Multan,Retail Pharmacy,9,28835,10,16,4.7,33,17,268800
+GP-0337,Retail Pharmacy MUL-0337,Multan,Retail Pharmacy,18,92249,19,1,1.8,66,5,1634800
+GP-0338,Hospital Pharmacy KAR-0338,Karachi,Hospital Pharmacy,11,48540,14,11,3.9,50,16,513500
+GP-0339,Retail Pharmacy FAI-0339,Faisalabad,Retail Pharmacy,17,79301,17,3,1.4,83,1,1413100
+GP-0340,Retail Pharmacy PES-0340,Peshawar,Retail Pharmacy,7,13252,9,30,5.3,26,59,90700
+GP-0341,Distributor HYD-0341,Hyderabad,Distributor,13,118506,25,2,2.2,40,3,1628100
+GP-0342,Retail Pharmacy FAI-0342,Faisalabad,Retail Pharmacy,4,13538,6,13,5.5,37,35,53600
+GP-0343,Distributor LAH-0343,Lahore,Distributor,5,29699,8,19,8.9,31,17,144600
+GP-0344,Retail Pharmacy FAI-0344,Faisalabad,Retail Pharmacy,6,37691,9,18,0.7,8,22,229800
+GP-0345,Retail Pharmacy PES-0345,Peshawar,Retail Pharmacy,7,23031,7,18,6.2,20,61,168000
+GP-0346,Retail Pharmacy SIA-0346,Sialkot,Retail Pharmacy,4,29326,4,17,7.5,25,33,116700
+GP-0347,Retail Pharmacy FAI-0347,Faisalabad,Retail Pharmacy,4,17973,5,34,9.5,16,49,72000
+GP-0348,Retail Pharmacy HYD-0348,Hyderabad,Retail Pharmacy,14,41783,14,7,2.7,63,15,578900
+GP-0349,Hospital Pharmacy PES-0349,Peshawar,Hospital Pharmacy,13,55874,10,7,5.1,41,9,710400
+GP-0350,Retail Pharmacy FAI-0350,Faisalabad,Retail Pharmacy,20,56480,24,4,2.6,51,13,1196000
+GP-0351,Retail Pharmacy ISL-0351,Islamabad,Retail Pharmacy,11,23575,12,5,2.4,46,17,243800
+GP-0352,Retail Pharmacy FAI-0352,Faisalabad,Retail Pharmacy,17,74790,17,4,4.3,46,7,1237000
+GP-0353,Retail Pharmacy PES-0353,Peshawar,Retail Pharmacy,11,42519,15,7,4.8,38,23,448800
+GP-0354,Hospital Pharmacy LAH-0354,Lahore,Hospital Pharmacy,11,40597,19,14,4.8,43,11,465300
+GP-0355,Retail Pharmacy SIA-0355,Sialkot,Retail Pharmacy,11,42622,13,11,3.0,72,16,481800
+GP-0356,Retail Pharmacy KAR-0356,Karachi,Retail Pharmacy,14,34868,10,6,1.9,28,18,516700
+GP-0357,Retail Pharmacy FAI-0357,Faisalabad,Retail Pharmacy,1,28056,4,29,10.2,35,39,28600
+GP-0358,Retail Pharmacy ISL-0358,Islamabad,Retail Pharmacy,4,19899,8,18,8.9,36,51,80900
+GP-0359,Retail Pharmacy HYD-0359,Hyderabad,Retail Pharmacy,7,45865,12,10,2.2,33,23,326800
+GP-0360,Retail Pharmacy KAR-0360,Karachi,Retail Pharmacy,12,45611,17,3,4.5,20,16,532400
+GP-0361,Distributor SIA-0361,Sialkot,Distributor,6,29145,6,16,7.0,3,58,182600
+GP-0362,Retail Pharmacy HYD-0362,Hyderabad,Retail Pharmacy,23,69191,20,4,3.4,68,12,1573900
+GP-0363,Retail Pharmacy PES-0363,Peshawar,Retail Pharmacy,22,68457,23,2,1.9,12,7,1439600
+GP-0364,Distributor KAR-0364,Karachi,Distributor,17,107260,25,8,2.2,83,6,1873400
+GP-0365,Retail Pharmacy ISL-0365,Islamabad,Retail Pharmacy,9,49848,11,14,5.9,32,17,463500
+GP-0366,Retail Pharmacy SIA-0366,Sialkot,Retail Pharmacy,6,38874,14,17,3.6,53,18,236400
+GP-0367,Retail Pharmacy QUE-0367,Quetta,Retail Pharmacy,6,33287,7,23,8.1,22,49,194100
+GP-0368,Retail Pharmacy FAI-0368,Faisalabad,Retail Pharmacy,7,39110,12,19,3.0,27,13,268600
+GP-0369,Distributor KAR-0369,Karachi,Distributor,17,61845,12,10,5.3,75,16,1086600
+GP-0370,Retail Pharmacy LAH-0370,Lahore,Retail Pharmacy,3,14283,3,12,4.6,29,37,42200
+GP-0371,Distributor ISL-0371,Islamabad,Distributor,3,21841,12,19,7.0,23,63,68800
+GP-0372,Retail Pharmacy ISL-0372,Islamabad,Retail Pharmacy,10,40873,9,14,3.3,41,19,384400
+GP-0373,Retail Pharmacy ISL-0373,Islamabad,Retail Pharmacy,8,34495,8,8,3.0,88,20,289700
+GP-0374,Distributor RAW-0374,Rawalpindi,Distributor,15,45972,8,8,4.2,44,20,727300
+GP-0375,Retail Pharmacy LAH-0375,Lahore,Retail Pharmacy,17,63759,28,3,1.2,46,3,1079000
+GP-0376,Hospital Pharmacy PES-0376,Peshawar,Hospital Pharmacy,19,78725,28,4,1.1,57,6,1574900
+GP-0377,Retail Pharmacy LAH-0377,Lahore,Retail Pharmacy,6,21051,7,20,7.5,35,23,129400
+GP-0378,Retail Pharmacy LAH-0378,Lahore,Retail Pharmacy,8,47965,13,7,2.7,26,24,394800
+GP-0379,Hospital Pharmacy LAH-0379,Lahore,Hospital Pharmacy,11,49720,7,6,3.5,43,16,542300
+GP-0380,Retail Pharmacy LAH-0380,Lahore,Retail Pharmacy,11,40060,12,9,0.6,30,32,420800
+GP-0381,Distributor KAR-0381,Karachi,Distributor,12,54489,14,9,3.9,34,15,675500
+GP-0382,Retail Pharmacy FAI-0382,Faisalabad,Retail Pharmacy,2,9634,8,25,4.1,51,58,19500
+GP-0383,Retail Pharmacy ISL-0383,Islamabad,Retail Pharmacy,2,17448,6,42,10.2,42,55,34200
+GP-0384,Hospital Pharmacy HYD-0384,Hyderabad,Hospital Pharmacy,6,64295,15,0,5.0,33,14,394700
+GP-0385,Retail Pharmacy ISL-0385,Islamabad,Retail Pharmacy,10,43284,11,16,4.5,39,10,443800
+GP-0386,Distributor RAW-0386,Rawalpindi,Distributor,7,31699,6,6,6.8,41,61,217200
+GP-0387,Hospital Pharmacy PES-0387,Peshawar,Hospital Pharmacy,11,43648,13,10,4.0,57,20,471000
+GP-0388,Retail Pharmacy KAR-0388,Karachi,Retail Pharmacy,3,17305,6,23,7.0,23,44,49800
+GP-0389,Hospital Pharmacy LAH-0389,Lahore,Hospital Pharmacy,19,95813,19,2,3.3,47,2,1886100
+GP-0390,Hospital Pharmacy RAW-0390,Rawalpindi,Hospital Pharmacy,4,32865,5,14,4.8,12,21,127300
+GP-0391,Retail Pharmacy HYD-0391,Hyderabad,Retail Pharmacy,7,53803,13,11,1.7,15,9,354400
+GP-0392,Retail Pharmacy LAH-0392,Lahore,Retail Pharmacy,22,68411,22,2,3.8,21,4,1489100
+GP-0393,Retail Pharmacy ISL-0393,Islamabad,Retail Pharmacy,8,38238,11,3,5.0,48,20,299800
+GP-0394,Retail Pharmacy FAI-0394,Faisalabad,Retail Pharmacy,9,62381,12,5,2.0,14,17,542800
+GP-0395,Retail Pharmacy KAR-0395,Karachi,Retail Pharmacy,22,84798,18,1,1.2,54,6,1852000
+GP-0396,Retail Pharmacy PES-0396,Peshawar,Retail Pharmacy,14,41453,15,13,2.3,21,6,565800
+GP-0397,Retail Pharmacy ISL-0397,Islamabad,Retail Pharmacy,6,23003,5,8,7.1,27,51,139800
+GP-0398,Retail Pharmacy LAH-0398,Lahore,Retail Pharmacy,8,38383,12,7,4.5,16,20,295900
+GP-0399,Retail Pharmacy HYD-0399,Hyderabad,Retail Pharmacy,10,45530,15,8,4.3,12,22,482600
+GP-0400,Hospital Pharmacy KAR-0400,Karachi,Hospital Pharmacy,11,63236,17,13,6.6,49,10,676800
+GP-0401,Retail Pharmacy RAW-0401,Rawalpindi,Retail Pharmacy,6,49297,9,12,3.6,23,12,296200
+GP-0402,Retail Pharmacy FAI-0402,Faisalabad,Retail Pharmacy,5,20835,8,31,6.8,3,38,100700
+GP-0403,Retail Pharmacy ISL-0403,Islamabad,Retail Pharmacy,1,24957,4,18,7.5,17,59,24700
+GP-0404,Retail Pharmacy PES-0404,Peshawar,Retail Pharmacy,16,73676,23,2,2.8,12,0,1186700
+GP-0405,Retail Pharmacy FAI-0405,Faisalabad,Retail Pharmacy,5,28323,5,27,3.6,53,53,140800
+GP-0406,Retail Pharmacy KAR-0406,Karachi,Retail Pharmacy,4,17785,7,12,5.9,14,49,74800
+GP-0407,Hospital Pharmacy FAI-0407,Faisalabad,Hospital Pharmacy,12,48660,12,9,3.0,47,14,551800
+GP-0408,Retail Pharmacy LAH-0408,Lahore,Retail Pharmacy,5,15700,7,28,4.2,49,31,74300
+GP-0409,Retail Pharmacy KAR-0409,Karachi,Retail Pharmacy,18,62522,25,1,1.4,37,9,1178900
+GP-0410,Distributor ISL-0410,Islamabad,Distributor,4,33740,6,31,9.5,23,62,132100
+GP-0411,Retail Pharmacy RAW-0411,Rawalpindi,Retail Pharmacy,8,28137,9,10,4.6,6,10,221500
+GP-0412,Retail Pharmacy MUL-0412,Multan,Retail Pharmacy,7,33556,12,15,4.2,60,19,226200
+GP-0413,Retail Pharmacy KAR-0413,Karachi,Retail Pharmacy,19,72932,22,3,2.6,39,1,1306300
+GP-0414,Distributor RAW-0414,Rawalpindi,Distributor,1,34291,8,32,6.9,53,43,34100
+GP-0415,Hospital Pharmacy LAH-0415,Lahore,Hospital Pharmacy,21,88378,27,1,1.2,62,1,1756200
+GP-0416,Retail Pharmacy QUE-0416,Quetta,Retail Pharmacy,17,68458,17,9,2.3,31,6,1146300
+GP-0417,Retail Pharmacy KAR-0417,Karachi,Retail Pharmacy,24,108053,19,0,3.4,83,1,2480500
+GP-0418,Retail Pharmacy KAR-0418,Karachi,Retail Pharmacy,6,18530,6,27,6.5,24,47,107000
+GP-0419,Retail Pharmacy KAR-0419,Karachi,Retail Pharmacy,23,75401,20,5,0.4,53,6,1736200
+GP-0420,Retail Pharmacy KAR-0420,Karachi,Retail Pharmacy,5,29925,6,24,7.0,24,36,151500
+GP-0421,Retail Pharmacy LAH-0421,Lahore,Retail Pharmacy,11,47152,10,12,0.0,28,15,508000
+GP-0422,Distributor HYD-0422,Hyderabad,Distributor,26,87183,25,0,1.7,61,12,2287800
+GP-0423,Retail Pharmacy MUL-0423,Multan,Retail Pharmacy,18,84434,20,0,0.3,96,5,1571800
+GP-0424,Retail Pharmacy RAW-0424,Rawalpindi,Retail Pharmacy,13,63706,26,10,1.7,50,8,877000
+GP-0425,Retail Pharmacy KAR-0425,Karachi,Retail Pharmacy,15,55541,7,7,3.9,37,11,883000
+GP-0426,Retail Pharmacy LAH-0426,Lahore,Retail Pharmacy,4,25007,6,24,7.2,32,34,105000
+GP-0427,Retail Pharmacy LAH-0427,Lahore,Retail Pharmacy,23,78926,18,1,2.1,49,4,1907100
+GP-0428,Retail Pharmacy LAH-0428,Lahore,Retail Pharmacy,4,11447,4,20,7.8,35,30,46700
+GP-0429,Retail Pharmacy PES-0429,Peshawar,Retail Pharmacy,18,67824,26,6,2.7,16,7,1257300
+GP-0430,Retail Pharmacy FAI-0430,Faisalabad,Retail Pharmacy,5,21318,6,26,8.7,3,45,105500
+GP-0431,Hospital Pharmacy LAH-0431,Lahore,Hospital Pharmacy,4,17094,9,18,8.7,14,47,70700
+GP-0432,Retail Pharmacy PES-0432,Peshawar,Retail Pharmacy,4,42000,8,25,6.8,45,37,162300
+GP-0433,Retail Pharmacy PES-0433,Peshawar,Retail Pharmacy,7,47384,9,3,4.8,56,18,329900
+GP-0434,Retail Pharmacy QUE-0434,Quetta,Retail Pharmacy,4,11203,2,28,8.7,41,39,45800
+GP-0435,Retail Pharmacy KAR-0435,Karachi,Retail Pharmacy,14,79603,20,2,0.3,68,13,1077900
+GP-0436,Retail Pharmacy PES-0436,Peshawar,Retail Pharmacy,21,65716,19,6,2.3,40,12,1321700
+GP-0437,Retail Pharmacy LAH-0437,Lahore,Retail Pharmacy,25,68375,22,5,1.0,42,7,1797100
+GP-0438,Retail Pharmacy FAI-0438,Faisalabad,Retail Pharmacy,15,44211,11,16,2.5,17,21,698500
+GP-0439,Retail Pharmacy KAR-0439,Karachi,Retail Pharmacy,13,49831,16,1,5.0,7,18,650700
+GP-0440,Retail Pharmacy ISL-0440,Islamabad,Retail Pharmacy,14,61203,10,12,4.6,46,20,825200
+GP-0441,Retail Pharmacy KAR-0441,Karachi,Retail Pharmacy,2,26172,8,25,7.4,27,67,52500
+GP-0442,Retail Pharmacy KAR-0442,Karachi,Retail Pharmacy,18,62576,27,5,1.2,67,5,1136200
+GP-0443,Retail Pharmacy SIA-0443,Sialkot,Retail Pharmacy,10,50812,7,10,3.8,28,13,502800
+GP-0444,Retail Pharmacy MUL-0444,Multan,Retail Pharmacy,21,103931,20,8,3.6,77,5,2057800
+GP-0445,Retail Pharmacy LAH-0445,Lahore,Retail Pharmacy,10,51076,12,9,5.5,63,14,486300
+GP-0446,Retail Pharmacy RAW-0446,Rawalpindi,Retail Pharmacy,14,53313,9,9,3.6,70,9,741300
+GP-0447,Retail Pharmacy KAR-0447,Karachi,Retail Pharmacy,3,22867,7,26,3.5,42,68,68800
+GP-0448,Hospital Pharmacy LAH-0448,Lahore,Hospital Pharmacy,10,50541,17,3,2.4,48,16,511400
+GP-0449,Retail Pharmacy RAW-0449,Rawalpindi,Retail Pharmacy,23,95691,16,5,1.5,33,9,2161300
+GP-0450,Retail Pharmacy KAR-0450,Karachi,Retail Pharmacy,10,49439,10,7,5.5,84,17,470700
+GP-0451,Distributor KAR-0451,Karachi,Distributor,24,84221,23,1,2.1,71,5,2021600
+GP-0452,Retail Pharmacy HYD-0452,Hyderabad,Retail Pharmacy,4,28551,5,12,9.6,26,49,111800
+GP-0453,Hospital Pharmacy MUL-0453,Multan,Hospital Pharmacy,7,40847,16,2,4.9,56,25,288800
+GP-0454,Retail Pharmacy KAR-0454,Karachi,Retail Pharmacy,20,65321,24,5,2.2,80,11,1368700
+GP-0455,Retail Pharmacy QUE-0455,Quetta,Retail Pharmacy,19,81499,18,0,2.7,38,8,1508900
+GP-0456,Retail Pharmacy FAI-0456,Faisalabad,Retail Pharmacy,25,88497,25,9,0.8,44,2,2250000
+GP-0457,Retail Pharmacy FAI-0457,Faisalabad,Retail Pharmacy,3,26094,7,19,8.4,12,59,77500
+GP-0458,Retail Pharmacy KAR-0458,Karachi,Retail Pharmacy,8,43667,9,8,4.3,47,7,361200
+GP-0459,Retail Pharmacy LAH-0459,Lahore,Retail Pharmacy,6,10983,5,20,7.1,45,44,66600
+GP-0460,Retail Pharmacy LAH-0460,Lahore,Retail Pharmacy,12,35745,14,9,4.7,42,6,430400
+GP-0461,Retail Pharmacy KAR-0461,Karachi,Retail Pharmacy,12,42608,12,12,2.7,6,8,502800
+GP-0462,Retail Pharmacy RAW-0462,Rawalpindi,Retail Pharmacy,21,85830,18,3,3.5,82,12,1731800
+GP-0463,Retail Pharmacy RAW-0463,Rawalpindi,Retail Pharmacy,4,24643,5,22,7.5,31,52,99000
+GP-0464,Hospital Pharmacy HYD-0464,Hyderabad,Hospital Pharmacy,11,73251,15,4,4.8,65,11,763500
+GP-0465,Retail Pharmacy MUL-0465,Multan,Retail Pharmacy,12,39907,8,13,3.9,46,24,506600
+GP-0466,Retail Pharmacy FAI-0466,Faisalabad,Retail Pharmacy,11,47413,16,5,4.2,27,12,494500
+GP-0467,Hospital Pharmacy HYD-0467,Hyderabad,Hospital Pharmacy,10,49876,17,12,4.5,34,19,509600
+GP-0468,Retail Pharmacy HYD-0468,Hyderabad,Retail Pharmacy,7,29724,7,26,4.5,21,49,215300
+GP-0469,Retail Pharmacy HYD-0469,Hyderabad,Retail Pharmacy,23,69001,20,7,1.4,58,8,1636500
+GP-0470,Retail Pharmacy MUL-0470,Multan,Retail Pharmacy,16,44707,14,2,5.8,46,13,736300
+GP-0471,Retail Pharmacy QUE-0471,Quetta,Retail Pharmacy,12,60263,7,17,5.4,38,2,700800
+GP-0472,Retail Pharmacy RAW-0472,Rawalpindi,Retail Pharmacy,11,48263,11,2,6.6,61,21,528700
+GP-0473,Retail Pharmacy HYD-0473,Hyderabad,Retail Pharmacy,14,78574,23,0,2.4,48,8,1051500
+GP-0474,Hospital Pharmacy KAR-0474,Karachi,Hospital Pharmacy,20,89816,25,4,2.1,82,4,1852400
+GP-0475,Retail Pharmacy RAW-0475,Rawalpindi,Retail Pharmacy,8,47705,11,12,3.5,31,16,389800
+GP-0476,Retail Pharmacy MUL-0476,Multan,Retail Pharmacy,11,50647,11,19,2.7,18,13,571900
+GP-0477,Retail Pharmacy KAR-0477,Karachi,Retail Pharmacy,12,34935,17,8,6.2,51,14,410800
+GP-0478,Retail Pharmacy FAI-0478,Faisalabad,Retail Pharmacy,8,26377,11,15,4.0,18,20,205200
+GP-0479,Retail Pharmacy RAW-0479,Rawalpindi,Retail Pharmacy,10,35827,14,0,7.9,8,19,337800
+GP-0480,Retail Pharmacy LAH-0480,Lahore,Retail Pharmacy,13,47252,12,14,8.8,41,16,625000
+GP-0481,Retail Pharmacy MUL-0481,Multan,Retail Pharmacy,13,30980,6,10,4.1,31,26,384300
+GP-0482,Retail Pharmacy KAR-0482,Karachi,Retail Pharmacy,14,92748,25,6,2.5,71,7,1342900
+GP-0483,Retail Pharmacy SIA-0483,Sialkot,Retail Pharmacy,8,41831,13,11,5.7,21,24,335400
+GP-0484,Retail Pharmacy HYD-0484,Hyderabad,Retail Pharmacy,11,18000,19,13,6.9,31,12,189400
+GP-0485,Retail Pharmacy PES-0485,Peshawar,Retail Pharmacy,20,79943,26,5,2.9,116,5,1604400
+GP-0486,Retail Pharmacy LAH-0486,Lahore,Retail Pharmacy,13,37607,11,3,3.2,37,8,503400
+GP-0487,Retail Pharmacy LAH-0487,Lahore,Retail Pharmacy,8,55372,15,10,5.7,18,13,432800
+GP-0488,Retail Pharmacy KAR-0488,Karachi,Retail Pharmacy,21,67917,23,2,2.5,85,0,1366000
+GP-0489,Retail Pharmacy PES-0489,Peshawar,Retail Pharmacy,10,37938,9,19,4.9,56,19,377500
+GP-0490,Retail Pharmacy KAR-0490,Karachi,Retail Pharmacy,9,46946,13,8,4.2,34,7,422400
+GP-0491,Retail Pharmacy LAH-0491,Lahore,Retail Pharmacy,16,39479,11,5,4.3,22,17,634400
+GP-0492,Distributor SIA-0492,Sialkot,Distributor,8,54640,11,7,4.0,48,14,454300
+GP-0493,Retail Pharmacy LAH-0493,Lahore,Retail Pharmacy,14,48127,12,15,5.0,9,24,711200
+GP-0494,Retail Pharmacy QUE-0494,Quetta,Retail Pharmacy,10,53231,16,15,2.4,48,24,504300
+GP-0495,Retail Pharmacy ISL-0495,Islamabad,Retail Pharmacy,6,23994,10,24,7.4,24,87,137400
+GP-0496,Retail Pharmacy KAR-0496,Karachi,Retail Pharmacy,8,54531,15,15,3.9,37,13,454000
+GP-0497,Retail Pharmacy HYD-0497,Hyderabad,Retail Pharmacy,15,51074,11,14,7.0,62,28,800700
+GP-0498,Retail Pharmacy QUE-0498,Quetta,Retail Pharmacy,14,46903,13,10,3.8,41,14,624800
+GP-0499,Retail Pharmacy LAH-0499,Lahore,Retail Pharmacy,8,49449,16,17,4.9,35,17,398900
+GP-0500,Distributor PES-0500,Peshawar,Distributor,10,60245,14,9,8.1,14,28,582700
+GP-0501,Retail Pharmacy LAH-0501,Lahore,Retail Pharmacy,12,48321,12,12,3.6,38,11,570000
+GP-0502,Hospital Pharmacy KAR-0502,Karachi,Hospital Pharmacy,5,25305,9,10,8.3,3,28,122600
+GP-0503,Hospital Pharmacy LAH-0503,Lahore,Hospital Pharmacy,2,31155,14,7,3.4,30,60,63300
+GP-0504,Retail Pharmacy KAR-0504,Karachi,Retail Pharmacy,12,29964,15,8,6.4,37,6,353900
+GP-0505,Retail Pharmacy FAI-0505,Faisalabad,Retail Pharmacy,10,44089,16,12,3.7,37,17,460100
+GP-0506,Retail Pharmacy KAR-0506,Karachi,Retail Pharmacy,3,17400,3,18,6.6,35,72,49800
+GP-0507,Retail Pharmacy LAH-0507,Lahore,Retail Pharmacy,9,44628,11,0,4.4,32,22,399000
+GP-0508,Retail Pharmacy KAR-0508,Karachi,Retail Pharmacy,7,22320,4,25,8.7,33,49,160600
+GP-0509,Hospital Pharmacy PES-0509,Peshawar,Hospital Pharmacy,6,46259,15,3,5.1,39,21,291900
+GP-0510,Retail Pharmacy FAI-0510,Faisalabad,Retail Pharmacy,15,91838,21,3,1.7,73,0,1457100
+GP-0511,Retail Pharmacy LAH-0511,Lahore,Retail Pharmacy,18,89110,14,4,3.2,69,11,1514800
+GP-0512,Hospital Pharmacy RAW-0512,Rawalpindi,Hospital Pharmacy,5,17642,9,38,4.3,4,49,91800
+GP-0513,Retail Pharmacy KAR-0513,Karachi,Retail Pharmacy,18,88798,21,1,0.6,104,3,1599500
+GP-0514,Retail Pharmacy ISL-0514,Islamabad,Retail Pharmacy,12,38168,9,9,3.2,21,24,432300
+GP-0515,Retail Pharmacy MUL-0515,Multan,Retail Pharmacy,11,57785,13,13,2.3,19,21,631400
+GP-0516,Retail Pharmacy KAR-0516,Karachi,Retail Pharmacy,21,79033,13,9,3.9,28,1,1740900
+GP-0517,Hospital Pharmacy ISL-0517,Islamabad,Hospital Pharmacy,7,37343,10,13,6.7,24,21,265800
+GP-0518,Retail Pharmacy KAR-0518,Karachi,Retail Pharmacy,9,47180,15,14,5.5,37,10,441600
+GP-0519,Retail Pharmacy KAR-0519,Karachi,Retail Pharmacy,26,81996,23,2,3.1,44,15,2230400
+GP-0520,Retail Pharmacy KAR-0520,Karachi,Retail Pharmacy,3,23852,9,14,6.0,17,33,71200
+GP-0521,Retail Pharmacy KAR-0521,Karachi,Retail Pharmacy,4,19138,3,28,9.6,21,57,74400
+GP-0522,Retail Pharmacy LAH-0522,Lahore,Retail Pharmacy,6,49624,12,5,3.8,67,2,313100
+GP-0523,Distributor QUE-0523,Quetta,Distributor,20,115701,23,1,0.0,88,2,2313900
+GP-0524,Retail Pharmacy RAW-0524,Rawalpindi,Retail Pharmacy,8,32380,11,18,1.5,31,31,269800
+GP-0525,Retail Pharmacy SIA-0525,Sialkot,Retail Pharmacy,18,78943,20,8,2.5,12,7,1400300
+GP-0526,Retail Pharmacy HYD-0526,Hyderabad,Retail Pharmacy,5,40179,9,18,2.8,39,18,200200
+GP-0527,Retail Pharmacy MUL-0527,Multan,Retail Pharmacy,5,8381,5,30,7.5,25,28,41700
+GP-0528,Retail Pharmacy LAH-0528,Lahore,Retail Pharmacy,5,12378,6,20,8.7,32,48,61900
+GP-0529,Distributor LAH-0529,Lahore,Distributor,4,39279,8,24,6.9,3,47,154500
+GP-0530,Retail Pharmacy LAH-0530,Lahore,Retail Pharmacy,8,37370,15,14,5.1,32,17,312400
+GP-0531,Retail Pharmacy LAH-0531,Lahore,Retail Pharmacy,8,56366,11,10,4.0,32,21,430800
+GP-0532,Retail Pharmacy SIA-0532,Sialkot,Retail Pharmacy,10,43092,14,10,3.8,33,29,413100
+GP-0533,Hospital Pharmacy RAW-0533,Rawalpindi,Hospital Pharmacy,9,59608,14,8,6.3,63,25,517700
+GP-0534,Retail Pharmacy FAI-0534,Faisalabad,Retail Pharmacy,11,40591,14,15,4.3,57,12,430600
+GP-0535,Retail Pharmacy HYD-0535,Hyderabad,Retail Pharmacy,17,70679,24,2,1.9,35,2,1186400
+GP-0536,Retail Pharmacy ISL-0536,Islamabad,Retail Pharmacy,19,82854,15,5,1.7,57,17,1539100
+GP-0537,Retail Pharmacy HYD-0537,Hyderabad,Retail Pharmacy,5,48070,19,13,4.4,12,8,239400
+GP-0538,Hospital Pharmacy FAI-0538,Faisalabad,Hospital Pharmacy,17,79403,29,3,0.7,19,3,1386100
+GP-0539,Hospital Pharmacy ISL-0539,Islamabad,Hospital Pharmacy,18,110227,21,2,2.8,106,1,2071300
+GP-0540,Retail Pharmacy LAH-0540,Lahore,Retail Pharmacy,2,24683,8,24,10.5,53,58,50900
+GP-0541,Distributor ISL-0541,Islamabad,Distributor,6,15466,9,24,7.6,62,42,90100
+GP-0542,Hospital Pharmacy FAI-0542,Faisalabad,Hospital Pharmacy,11,62668,14,9,1.6,6,4,723700
+GP-0543,Retail Pharmacy LAH-0543,Lahore,Retail Pharmacy,4,19412,4,27,5.0,42,38,80300
+GP-0544,Retail Pharmacy KAR-0544,Karachi,Retail Pharmacy,4,23489,5,37,10.1,21,41,99200
+GP-0545,Retail Pharmacy ISL-0545,Islamabad,Retail Pharmacy,17,91983,28,2,1.3,52,5,1656100
+GP-0546,Retail Pharmacy MUL-0546,Multan,Retail Pharmacy,14,48620,18,8,3.0,41,17,660000
+GP-0547,Retail Pharmacy QUE-0547,Quetta,Retail Pharmacy,10,39486,10,13,4.8,79,8,382600
+GP-0548,Retail Pharmacy PES-0548,Peshawar,Retail Pharmacy,21,77086,17,4,3.7,54,5,1590200
+GP-0549,Distributor KAR-0549,Karachi,Distributor,5,35896,7,23,6.6,37,29,180200
+GP-0550,Retail Pharmacy FAI-0550,Faisalabad,Retail Pharmacy,8,58822,12,5,1.6,18,14,484700
+GP-0551,Retail Pharmacy KAR-0551,Karachi,Retail Pharmacy,10,42676,14,0,3.9,68,17,423400
+GP-0552,Distributor PES-0552,Peshawar,Distributor,14,120508,24,0,1.6,94,6,1640900
+GP-0553,Hospital Pharmacy KAR-0553,Karachi,Hospital Pharmacy,24,98768,29,5,3.0,58,6,2373100
+GP-0554,Distributor KAR-0554,Karachi,Distributor,4,23105,12,29,6.4,29,55,86900
+GP-0555,Retail Pharmacy LAH-0555,Lahore,Retail Pharmacy,21,73119,25,7,1.5,77,9,1605700
+GP-0556,Hospital Pharmacy RAW-0556,Rawalpindi,Hospital Pharmacy,21,125121,29,5,2.0,38,6,2534900
+GP-0557,Retail Pharmacy LAH-0557,Lahore,Retail Pharmacy,5,38101,11,9,3.5,72,11,194400
+GP-0558,Retail Pharmacy RAW-0558,Rawalpindi,Retail Pharmacy,10,36088,10,15,2.4,37,13,345100
+GP-0559,Retail Pharmacy HYD-0559,Hyderabad,Retail Pharmacy,12,47061,18,16,8.2,53,26,565400
+GP-0560,Retail Pharmacy LAH-0560,Lahore,Retail Pharmacy,10,37170,13,7,4.6,35,11,375900
+GP-0561,Retail Pharmacy PES-0561,Peshawar,Retail Pharmacy,17,83387,23,6,2.9,73,8,1484300
+GP-0562,Retail Pharmacy PES-0562,Peshawar,Retail Pharmacy,21,94523,14,2,3.0,95,4,2099100
+GP-0563,Retail Pharmacy KAR-0563,Karachi,Retail Pharmacy,2,19477,5,12,8.4,40,60,38100
+GP-0564,Retail Pharmacy FAI-0564,Faisalabad,Retail Pharmacy,14,18000,9,10,3.6,35,8,249500
+GP-0565,Retail Pharmacy KAR-0565,Karachi,Retail Pharmacy,9,38921,12,10,4.7,29,4,365200
+GP-0566,Retail Pharmacy PES-0566,Peshawar,Retail Pharmacy,7,39657,9,7,6.2,15,25,263000
+GP-0567,Retail Pharmacy KAR-0567,Karachi,Retail Pharmacy,1,10580,7,9,7.3,30,43,10900
+GP-0568,Retail Pharmacy QUE-0568,Quetta,Retail Pharmacy,21,69588,22,4,2.6,87,12,1533200
+GP-0569,Retail Pharmacy FAI-0569,Faisalabad,Retail Pharmacy,10,33927,15,14,5.0,42,14,337800
+GP-0570,Retail Pharmacy SIA-0570,Sialkot,Retail Pharmacy,10,48612,10,0,3.9,39,8,492900
+GP-0571,Retail Pharmacy KAR-0571,Karachi,Retail Pharmacy,10,52937,10,9,6.1,46,8,534600
+GP-0572,Retail Pharmacy FAI-0572,Faisalabad,Retail Pharmacy,4,17525,5,25,6.1,4,45,69100
+GP-0573,Hospital Pharmacy HYD-0573,Hyderabad,Hospital Pharmacy,10,55699,16,12,3.1,17,14,530600
+GP-0574,Retail Pharmacy ISL-0574,Islamabad,Retail Pharmacy,4,14724,3,29,5.3,8,43,55600
+GP-0575,Retail Pharmacy RAW-0575,Rawalpindi,Retail Pharmacy,4,27965,3,37,1.6,23,87,118200
+GP-0576,Retail Pharmacy LAH-0576,Lahore,Retail Pharmacy,12,41986,10,9,2.2,6,20,494100
+GP-0577,Retail Pharmacy FAI-0577,Faisalabad,Retail Pharmacy,8,18414,7,35,4.0,3,59,145700
+GP-0578,Retail Pharmacy KAR-0578,Karachi,Retail Pharmacy,12,33223,16,18,4.7,13,14,390300
+GP-0579,Retail Pharmacy RAW-0579,Rawalpindi,Retail Pharmacy,4,17972,5,30,10.5,4,38,70600
+GP-0580,Retail Pharmacy KAR-0580,Karachi,Retail Pharmacy,9,39906,14,17,3.4,42,24,372200
+GP-0581,Distributor QUE-0581,Quetta,Distributor,9,57914,10,10,5.7,26,27,503100
+GP-0582,Retail Pharmacy KAR-0582,Karachi,Retail Pharmacy,13,41077,17,2,3.8,31,22,522300
+GP-0583,Hospital Pharmacy ISL-0583,Islamabad,Hospital Pharmacy,26,102036,22,0,3.3,43,0,2729300
+GP-0584,Distributor MUL-0584,Multan,Distributor,11,58840,14,13,3.4,52,16,647900
+GP-0585,Retail Pharmacy LAH-0585,Lahore,Retail Pharmacy,4,24177,5,15,10.1,37,76,99000
+GP-0586,Hospital Pharmacy FAI-0586,Faisalabad,Hospital Pharmacy,9,41782,19,10,1.9,48,28,380400
+GP-0587,Hospital Pharmacy LAH-0587,Lahore,Hospital Pharmacy,16,103118,21,3,3.4,85,0,1676000
+GP-0588,Retail Pharmacy MUL-0588,Multan,Retail Pharmacy,9,33053,7,7,3.1,53,6,293800
+GP-0589,Retail Pharmacy KAR-0589,Karachi,Retail Pharmacy,20,102971,21,4,3.3,50,0,2074500
+GP-0590,Hospital Pharmacy KAR-0590,Karachi,Hospital Pharmacy,22,80772,28,1,1.4,68,8,1737900
+GP-0591,Retail Pharmacy FAI-0591,Faisalabad,Retail Pharmacy,4,21287,5,23,5.8,22,52,88200
+GP-0592,Hospital Pharmacy PES-0592,Peshawar,Hospital Pharmacy,11,59974,9,0,1.9,33,13,690600
+GP-0593,Hospital Pharmacy ISL-0593,Islamabad,Hospital Pharmacy,11,48304,15,8,3.8,73,26,515000
+GP-0594,Retail Pharmacy SIA-0594,Sialkot,Retail Pharmacy,9,48690,11,0,5.9,63,2,417200
+GP-0595,Retail Pharmacy RAW-0595,Rawalpindi,Retail Pharmacy,20,61195,21,3,3.4,109,1,1174900
+GP-0596,Retail Pharmacy FAI-0596,Faisalabad,Retail Pharmacy,14,43686,11,12,4.2,9,12,645500
+GP-0597,Retail Pharmacy LAH-0597,Lahore,Retail Pharmacy,9,41774,9,13,3.3,38,10,370700
+GP-0598,Retail Pharmacy HYD-0598,Hyderabad,Retail Pharmacy,12,39594,11,11,2.5,37,15,492800
+GP-0599,Distributor MUL-0599,Multan,Distributor,2,34711,9,17,4.6,8,51,67200
+GP-0600,Retail Pharmacy SIA-0600,Sialkot,Retail Pharmacy,8,47196,10,13,4.1,39,9,388700
+GP-0601,Retail Pharmacy LAH-0601,Lahore,Retail Pharmacy,12,62243,8,6,3.4,31,14,745000
+GP-0602,Retail Pharmacy LAH-0602,Lahore,Retail Pharmacy,4,27797,6,16,6.5,13,30,113100
+GP-0603,Retail Pharmacy RAW-0603,Rawalpindi,Retail Pharmacy,4,22233,9,20,5.9,21,39,87700
+GP-0604,Retail Pharmacy MUL-0604,Multan,Retail Pharmacy,9,46238,12,15,5.1,66,30,407000
+GP-0605,Hospital Pharmacy ISL-0605,Islamabad,Hospital Pharmacy,6,28661,8,23,8.2,13,45,164500
+GP-0606,Hospital Pharmacy KAR-0606,Karachi,Hospital Pharmacy,4,26836,11,25,4.5,60,72,105300
+GP-0607,Hospital Pharmacy MUL-0607,Multan,Hospital Pharmacy,2,21418,11,10,8.1,54,58,44700
+GP-0608,Retail Pharmacy SIA-0608,Sialkot,Retail Pharmacy,18,62113,18,4,2.5,45,1,1147300
+GP-0609,Retail Pharmacy KAR-0609,Karachi,Retail Pharmacy,9,43307,14,15,2.4,40,14,371800
+GP-0610,Distributor SIA-0610,Sialkot,Distributor,8,52645,13,13,1.6,31,5,409100
+GP-0611,Retail Pharmacy LAH-0611,Lahore,Retail Pharmacy,9,39460,12,7,4.7,22,26,339400
+GP-0612,Hospital Pharmacy HYD-0612,Hyderabad,Hospital Pharmacy,8,55894,14,17,4.3,33,25,422500
+GP-0613,Retail Pharmacy KAR-0613,Karachi,Retail Pharmacy,4,18363,5,15,5.4,40,58,75400
+GP-0614,Retail Pharmacy LAH-0614,Lahore,Retail Pharmacy,1,34118,5,24,8.5,28,59,33400
+GP-0615,Distributor KAR-0615,Karachi,Distributor,11,77671,17,2,3.1,68,34,867300
+GP-0616,Hospital Pharmacy ISL-0616,Islamabad,Hospital Pharmacy,12,45607,18,12,0.8,36,23,527400
+GP-0617,Retail Pharmacy PES-0617,Peshawar,Retail Pharmacy,9,43439,15,0,3.5,20,20,410100
+GP-0618,Retail Pharmacy MUL-0618,Multan,Retail Pharmacy,10,50881,14,10,3.0,55,11,516700
+GP-0619,Retail Pharmacy QUE-0619,Quetta,Retail Pharmacy,23,70891,23,7,1.8,56,0,1661200
+GP-0620,Hospital Pharmacy FAI-0620,Faisalabad,Hospital Pharmacy,22,102378,23,3,2.1,73,7,2148700
+GP-0621,Retail Pharmacy RAW-0621,Rawalpindi,Retail Pharmacy,6,22209,3,22,4.7,19,53,126500
+GP-0622,Retail Pharmacy QUE-0622,Quetta,Retail Pharmacy,6,46163,12,12,2.8,23,13,286500
+GP-0623,Retail Pharmacy KAR-0623,Karachi,Retail Pharmacy,4,18248,5,41,5.9,72,38,77100
+GP-0624,Retail Pharmacy ISL-0624,Islamabad,Retail Pharmacy,8,51181,11,8,4.8,57,27,405900
+GP-0625,Retail Pharmacy LAH-0625,Lahore,Retail Pharmacy,6,21875,9,29,7.5,26,53,131100
+GP-0626,Distributor KAR-0626,Karachi,Distributor,9,58929,15,13,4.3,11,21,528900
+GP-0627,Retail Pharmacy LAH-0627,Lahore,Retail Pharmacy,3,17825,9,33,6.8,33,57,51200
+GP-0628,Retail Pharmacy LAH-0628,Lahore,Retail Pharmacy,18,81279,23,5,2.5,40,3,1512800
+GP-0629,Distributor QUE-0629,Quetta,Distributor,13,43875,13,16,3.7,18,12,601700
+GP-0630,Retail Pharmacy LAH-0630,Lahore,Retail Pharmacy,5,21478,5,17,8.5,14,69,102600
+GP-0631,Retail Pharmacy KAR-0631,Karachi,Retail Pharmacy,4,18299,4,13,6.3,23,27,71600
+GP-0632,Hospital Pharmacy SIA-0632,Sialkot,Hospital Pharmacy,5,23041,9,22,7.2,5,38,116300
+GP-0633,Retail Pharmacy RAW-0633,Rawalpindi,Retail Pharmacy,19,91812,18,1,3.0,97,7,1823500
+GP-0634,Retail Pharmacy ISL-0634,Islamabad,Retail Pharmacy,13,34520,13,0,4.7,12,8,430500
+GP-0635,Distributor RAW-0635,Rawalpindi,Distributor,17,91948,22,3,1.5,97,5,1536400
+GP-0636,Distributor KAR-0636,Karachi,Distributor,20,119526,29,2,2.2,48,7,2353100
+GP-0637,Retail Pharmacy ISL-0637,Islamabad,Retail Pharmacy,15,47245,14,13,4.7,18,6,734800
+GP-0638,Retail Pharmacy KAR-0638,Karachi,Retail Pharmacy,8,53373,9,8,4.1,7,25,410600
+GP-0639,Retail Pharmacy PES-0639,Peshawar,Retail Pharmacy,3,27832,9,17,7.8,11,47,81200
+GP-0640,Distributor LAH-0640,Lahore,Distributor,4,27472,9,19,6.8,23,42,105400
+GP-0641,Distributor KAR-0641,Karachi,Distributor,8,51814,13,17,4.3,28,16,414600
+GP-0642,Retail Pharmacy MUL-0642,Multan,Retail Pharmacy,2,19196,2,15,8.7,44,72,38900
+GP-0643,Retail Pharmacy RAW-0643,Rawalpindi,Retail Pharmacy,16,92907,22,10,3.8,57,4,1407900
+GP-0644,Retail Pharmacy LAH-0644,Lahore,Retail Pharmacy,18,64571,18,5,1.9,72,4,1108000
+GP-0645,Retail Pharmacy KAR-0645,Karachi,Retail Pharmacy,11,48586,16,10,4.1,42,2,563100
+GP-0646,Retail Pharmacy LAH-0646,Lahore,Retail Pharmacy,2,25364,5,20,9.5,23,43,53100
+GP-0647,Retail Pharmacy FAI-0647,Faisalabad,Retail Pharmacy,25,86422,24,5,0.9,55,0,2267900
+GP-0648,Retail Pharmacy LAH-0648,Lahore,Retail Pharmacy,7,40691,12,6,3.3,60,17,290000
+GP-0649,Retail Pharmacy QUE-0649,Quetta,Retail Pharmacy,6,42184,9,10,4.6,11,11,245800
+GP-0650,Retail Pharmacy HYD-0650,Hyderabad,Retail Pharmacy,23,68065,22,4,0.3,40,11,1541300
+GP-0651,Hospital Pharmacy QUE-0651,Quetta,Hospital Pharmacy,9,20249,15,14,3.3,56,10,193100
+GP-0652,Retail Pharmacy SIA-0652,Sialkot,Retail Pharmacy,3,19089,4,25,8.1,27,48,59100
+GP-0653,Retail Pharmacy MUL-0653,Multan,Retail Pharmacy,9,41500,15,7,6.2,53,25,365400
+GP-0654,Retail Pharmacy MUL-0654,Multan,Retail Pharmacy,20,68312,26,0,2.3,36,3,1367700
+GP-0655,Distributor MUL-0655,Multan,Distributor,6,36311,9,7,8.5,3,33,205600
+GP-0656,Retail Pharmacy QUE-0656,Quetta,Retail Pharmacy,9,37208,12,12,5.6,22,15,347700
+GP-0657,Retail Pharmacy KAR-0657,Karachi,Retail Pharmacy,3,26458,6,29,7.8,15,53,78600
+GP-0658,Retail Pharmacy SIA-0658,Sialkot,Retail Pharmacy,7,44627,6,7,3.8,40,23,330800
+GP-0659,Distributor KAR-0659,Karachi,Distributor,11,66126,14,9,3.7,13,7,770800
+GP-0660,Retail Pharmacy FAI-0660,Faisalabad,Retail Pharmacy,9,44978,11,2,0.7,27,23,382100
+GP-0661,Retail Pharmacy LAH-0661,Lahore,Retail Pharmacy,8,26458,10,7,5.5,14,11,203000
+GP-0662,Retail Pharmacy RAW-0662,Rawalpindi,Retail Pharmacy,4,26142,6,26,1.7,30,27,103800
+GP-0663,Retail Pharmacy PES-0663,Peshawar,Retail Pharmacy,25,72021,23,5,1.5,46,12,1734900
+GP-0664,Retail Pharmacy HYD-0664,Hyderabad,Retail Pharmacy,22,118517,23,0,0.8,51,4,2655900
+GP-0665,Retail Pharmacy LAH-0665,Lahore,Retail Pharmacy,14,45689,11,13,4.4,52,19,640200
+GP-0666,Hospital Pharmacy ISL-0666,Islamabad,Hospital Pharmacy,10,45937,18,8,4.6,26,19,479000
+GP-0667,Distributor LAH-0667,Lahore,Distributor,2,21459,9,32,1.8,34,58,42200
+GP-0668,Retail Pharmacy QUE-0668,Quetta,Retail Pharmacy,4,20335,6,32,9.2,38,50,77000
+GP-0669,Retail Pharmacy KAR-0669,Karachi,Retail Pharmacy,9,49441,9,5,2.6,61,30,459000
+GP-0670,Retail Pharmacy LAH-0670,Lahore,Retail Pharmacy,7,42876,9,8,4.4,8,22,307800
+GP-0671,Retail Pharmacy ISL-0671,Islamabad,Retail Pharmacy,23,75826,18,9,1.7,51,5,1680200
+GP-0672,Retail Pharmacy PES-0672,Peshawar,Retail Pharmacy,8,54940,14,9,5.1,33,26,420200
+GP-0673,Hospital Pharmacy RAW-0673,Rawalpindi,Hospital Pharmacy,4,25765,5,22,9.1,3,45,104900
+GP-0674,Retail Pharmacy RAW-0674,Rawalpindi,Retail Pharmacy,10,59164,14,8,3.5,55,18,624800
+GP-0675,Retail Pharmacy FAI-0675,Faisalabad,Retail Pharmacy,13,23182,16,9,0.0,7,3,315000
+GP-0676,Retail Pharmacy LAH-0676,Lahore,Retail Pharmacy,9,33027,11,10,2.8,56,18,298900
+GP-0677,Retail Pharmacy PES-0677,Peshawar,Retail Pharmacy,6,20136,5,29,7.4,43,82,122500
+GP-0678,Retail Pharmacy KAR-0678,Karachi,Retail Pharmacy,7,41155,10,8,3.6,49,11,279800
+GP-0679,Retail Pharmacy KAR-0679,Karachi,Retail Pharmacy,15,81172,24,4,2.0,50,2,1192700
+GP-0680,Retail Pharmacy MUL-0680,Multan,Retail Pharmacy,12,37524,15,8,3.2,34,21,428800
+GP-0681,Retail Pharmacy KAR-0681,Karachi,Retail Pharmacy,19,100830,18,1,1.2,83,1,2018100
+GP-0682,Distributor FAI-0682,Faisalabad,Distributor,16,121575,29,3,0.5,64,0,1924400
+GP-0683,Distributor HYD-0683,Hyderabad,Distributor,26,96220,30,5,1.5,57,1,2595900
+GP-0684,Hospital Pharmacy RAW-0684,Rawalpindi,Hospital Pharmacy,8,59029,13,10,3.1,49,20,447900
+GP-0685,Retail Pharmacy KAR-0685,Karachi,Retail Pharmacy,9,50688,14,4,3.0,42,8,461500
+GP-0686,Distributor LAH-0686,Lahore,Distributor,9,61090,16,8,4.2,19,2,572100
+GP-0687,Retail Pharmacy FAI-0687,Faisalabad,Retail Pharmacy,10,47986,8,11,5.8,27,16,460300
+GP-0688,Retail Pharmacy PES-0688,Peshawar,Retail Pharmacy,2,37585,4,23,7.5,21,55,77700
+GP-0689,Hospital Pharmacy HYD-0689,Hyderabad,Hospital Pharmacy,8,21918,9,21,6.1,3,45,181000
+GP-0690,Distributor KAR-0690,Karachi,Distributor,7,48390,13,16,4.8,57,10,323900
+GP-0691,Retail Pharmacy ISL-0691,Islamabad,Retail Pharmacy,12,31654,13,11,4.7,19,19,381900
+GP-0692,Hospital Pharmacy PES-0692,Peshawar,Hospital Pharmacy,1,28241,6,26,7.0,39,71,29100
+GP-0693,Retail Pharmacy MUL-0693,Multan,Retail Pharmacy,20,86751,21,6,3.9,107,3,1711500
+GP-0694,Distributor MUL-0694,Multan,Distributor,7,39924,18,11,4.0,6,14,277100
+GP-0695,Retail Pharmacy ISL-0695,Islamabad,Retail Pharmacy,6,24748,7,13,8.3,43,59,152300
+GP-0696,Retail Pharmacy SIA-0696,Sialkot,Retail Pharmacy,8,44552,12,9,2.3,17,23,359700
+GP-0697,Hospital Pharmacy LAH-0697,Lahore,Hospital Pharmacy,10,46491,12,14,5.6,34,16,444100
+GP-0698,Retail Pharmacy LAH-0698,Lahore,Retail Pharmacy,12,39297,13,6,3.1,55,21,443800
+GP-0699,Distributor KAR-0699,Karachi,Distributor,6,47941,11,4,4.0,28,20,302800
+GP-0700,Retail Pharmacy KAR-0700,Karachi,Retail Pharmacy,8,31100,14,9,3.2,55,30,236200
+GP-0701,Retail Pharmacy RAW-0701,Rawalpindi,Retail Pharmacy,23,85473,17,0,2.4,54,0,1909300
+GP-0702,Retail Pharmacy PES-0702,Peshawar,Retail Pharmacy,9,36949,12,13,4.0,60,32,335800
+GP-0703,Retail Pharmacy LAH-0703,Lahore,Retail Pharmacy,14,78190,19,0,1.3,24,12,1084100
+GP-0704,Retail Pharmacy MUL-0704,Multan,Retail Pharmacy,3,17484,7,27,6.8,32,62,52800
+GP-0705,Hospital Pharmacy KAR-0705,Karachi,Hospital Pharmacy,6,54199,14,8,1.9,71,25,315700
+GP-0706,Hospital Pharmacy KAR-0706,Karachi,Hospital Pharmacy,6,46752,15,13,0.7,7,15,293000
+GP-0707,Retail Pharmacy KAR-0707,Karachi,Retail Pharmacy,2,19814,7,17,7.2,31,74,40500
+GP-0708,Retail Pharmacy SIA-0708,Sialkot,Retail Pharmacy,4,32243,5,28,4.9,27,57,130900
+GP-0709,Retail Pharmacy RAW-0709,Rawalpindi,Retail Pharmacy,10,42346,12,10,4.2,25,13,417100
+GP-0710,Retail Pharmacy LAH-0710,Lahore,Retail Pharmacy,9,38448,18,4,4.4,45,19,351200
+GP-0711,Retail Pharmacy KAR-0711,Karachi,Retail Pharmacy,3,22261,3,24,6.6,3,38,66000
+GP-0712,Retail Pharmacy LAH-0712,Lahore,Retail Pharmacy,7,35353,15,13,6.3,23,24,257900
+GP-0713,Retail Pharmacy RAW-0713,Rawalpindi,Retail Pharmacy,3,14953,7,30,7.4,26,64,45900
+GP-0714,Distributor KAR-0714,Karachi,Distributor,4,33891,6,22,7.6,49,29,142500
+GP-0715,Retail Pharmacy RAW-0715,Rawalpindi,Retail Pharmacy,1,17606,7,6,9.2,39,35,16900
+GP-0716,Retail Pharmacy KAR-0716,Karachi,Retail Pharmacy,22,73896,22,1,3.3,90,10,1677800
+GP-0717,Hospital Pharmacy KAR-0717,Karachi,Hospital Pharmacy,8,61031,15,11,4.6,16,12,513700
+GP-0718,Hospital Pharmacy KAR-0718,Karachi,Hospital Pharmacy,22,67236,25,9,1.7,91,2,1465400
+GP-0719,Distributor MUL-0719,Multan,Distributor,8,69141,12,9,5.6,50,16,546600
+GP-0720,Retail Pharmacy QUE-0720,Quetta,Retail Pharmacy,9,25493,6,14,6.6,16,40,215700
+GP-0721,Hospital Pharmacy LAH-0721,Lahore,Hospital Pharmacy,10,35980,18,10,5.1,59,4,354200
+GP-0722,Distributor SIA-0722,Sialkot,Distributor,12,49098,13,13,4.8,16,13,575400
+GP-0723,Retail Pharmacy LAH-0723,Lahore,Retail Pharmacy,23,71076,19,7,3.1,89,0,1693900
+GP-0724,Retail Pharmacy ISL-0724,Islamabad,Retail Pharmacy,4,12582,4,28,4.9,34,60,49700
+GP-0725,Retail Pharmacy MUL-0725,Multan,Retail Pharmacy,24,84202,25,0,1.8,55,5,1905200
+GP-0726,Distributor KAR-0726,Karachi,Distributor,19,87596,29,4,1.6,22,1,1743300
+GP-0727,Retail Pharmacy KAR-0727,Karachi,Retail Pharmacy,18,98599,18,5,2.9,59,14,1739500
+GP-0728,Retail Pharmacy KAR-0728,Karachi,Retail Pharmacy,18,68645,21,3,0.6,45,7,1222100
+GP-0729,Retail Pharmacy LAH-0729,Lahore,Retail Pharmacy,11,28477,13,12,2.2,73,15,310600
+GP-0730,Retail Pharmacy RAW-0730,Rawalpindi,Retail Pharmacy,12,58361,14,7,3.1,41,24,740900
+GP-0731,Retail Pharmacy PES-0731,Peshawar,Retail Pharmacy,11,27678,13,6,3.5,16,25,318300
+GP-0732,Retail Pharmacy FAI-0732,Faisalabad,Retail Pharmacy,20,76028,24,0,2.2,36,0,1490300
+GP-0733,Retail Pharmacy KAR-0733,Karachi,Retail Pharmacy,16,69951,19,8,1.4,73,9,1181500
+GP-0734,Retail Pharmacy RAW-0734,Rawalpindi,Retail Pharmacy,11,42122,13,10,3.6,29,15,487700
+GP-0735,Hospital Pharmacy KAR-0735,Karachi,Hospital Pharmacy,16,72814,25,7,1.4,65,6,1110600
+GP-0736,Distributor PES-0736,Peshawar,Distributor,13,57189,13,9,6.0,34,12,757400
+GP-0737,Distributor RAW-0737,Rawalpindi,Distributor,21,104405,20,4,1.9,61,5,2198400
+GP-0738,Retail Pharmacy LAH-0738,Lahore,Retail Pharmacy,9,48999,13,12,4.9,61,35,429400
+GP-0739,Retail Pharmacy PES-0739,Peshawar,Retail Pharmacy,12,46661,13,9,3.7,52,13,580000
+GP-0740,Retail Pharmacy MUL-0740,Multan,Retail Pharmacy,8,47220,11,17,4.3,50,13,380300
+GP-0741,Retail Pharmacy KAR-0741,Karachi,Retail Pharmacy,18,72283,26,1,2.1,29,7,1370800
+GP-0742,Retail Pharmacy HYD-0742,Hyderabad,Retail Pharmacy,18,78108,17,3,1.0,47,9,1414500
+GP-0743,Retail Pharmacy KAR-0743,Karachi,Retail Pharmacy,7,24435,7,22,8.3,16,22,176200
+GP-0744,Retail Pharmacy LAH-0744,Lahore,Retail Pharmacy,21,67925,25,0,4.0,96,14,1360000
+GP-0745,Retail Pharmacy LAH-0745,Lahore,Retail Pharmacy,10,29018,16,15,2.2,26,16,298700
+GP-0746,Retail Pharmacy FAI-0746,Faisalabad,Retail Pharmacy,11,35406,8,11,5.3,13,14,380100
+GP-0747,Retail Pharmacy HYD-0747,Hyderabad,Retail Pharmacy,5,59183,18,10,3.6,55,10,302800
+GP-0748,Retail Pharmacy PES-0748,Peshawar,Retail Pharmacy,9,38264,13,6,3.3,41,19,349400
+GP-0749,Retail Pharmacy KAR-0749,Karachi,Retail Pharmacy,1,17942,6,36,6.8,46,21,17900
+GP-0750,Retail Pharmacy FAI-0750,Faisalabad,Retail Pharmacy,4,31177,7,32,5.5,21,45,123600
+GP-0751,Retail Pharmacy LAH-0751,Lahore,Retail Pharmacy,8,47487,9,13,5.7,30,13,364500
+GP-0752,Hospital Pharmacy KAR-0752,Karachi,Hospital Pharmacy,10,31392,17,10,5.0,23,22,322500
+GP-0753,Retail Pharmacy QUE-0753,Quetta,Retail Pharmacy,23,75683,26,4,1.4,65,6,1816900
+GP-0754,Retail Pharmacy ISL-0754,Islamabad,Retail Pharmacy,10,44121,17,15,4.3,24,17,415500
+GP-0755,Distributor LAH-0755,Lahore,Distributor,12,42260,18,10,6.0,67,9,515900
+GP-0756,Distributor LAH-0756,Lahore,Distributor,25,111953,20,9,1.3,37,9,2773900
+GP-0757,Retail Pharmacy LAH-0757,Lahore,Retail Pharmacy,12,37902,9,12,4.2,11,12,476100
+GP-0758,Retail Pharmacy KAR-0758,Karachi,Retail Pharmacy,3,13406,6,27,6.0,28,56,41200
+GP-0759,Retail Pharmacy KAR-0759,Karachi,Retail Pharmacy,21,104571,17,3,1.9,64,4,2281700
+GP-0760,Retail Pharmacy ISL-0760,Islamabad,Retail Pharmacy,10,39848,10,2,7.1,47,18,380000
+GP-0761,Retail Pharmacy LAH-0761,Lahore,Retail Pharmacy,12,61078,16,14,4.3,23,16,719800
+GP-0762,Retail Pharmacy MUL-0762,Multan,Retail Pharmacy,19,58897,22,2,1.4,53,0,1057200
+GP-0763,Retail Pharmacy PES-0763,Peshawar,Retail Pharmacy,13,78042,22,4,0.9,60,3,997900
+GP-0764,Retail Pharmacy KAR-0764,Karachi,Retail Pharmacy,20,110180,21,5,2.5,66,8,2240500
+GP-0765,Retail Pharmacy KAR-0765,Karachi,Retail Pharmacy,5,34186,8,25,5.3,20,63,171900
+GP-0766,Retail Pharmacy MUL-0766,Multan,Retail Pharmacy,18,106357,22,8,2.0,53,6,1843900
+GP-0767,Retail Pharmacy RAW-0767,Rawalpindi,Retail Pharmacy,19,89896,22,2,2.9,50,9,1621700
+GP-0768,Distributor KAR-0768,Karachi,Distributor,20,100362,22,1,2.3,17,1,1944000
+GP-0769,Retail Pharmacy RAW-0769,Rawalpindi,Retail Pharmacy,14,78412,28,8,2.1,38,0,1139800
+GP-0770,Hospital Pharmacy HYD-0770,Hyderabad,Hospital Pharmacy,11,40950,16,0,2.8,40,11,445500
+GP-0771,Retail Pharmacy KAR-0771,Karachi,Retail Pharmacy,20,85021,23,2,2.6,48,7,1778000
+GP-0772,Distributor PES-0772,Peshawar,Distributor,15,39612,14,6,3.2,28,31,622400
+GP-0773,Retail Pharmacy LAH-0773,Lahore,Retail Pharmacy,10,18000,12,10,6.0,34,23,189700
+GP-0774,Retail Pharmacy KAR-0774,Karachi,Retail Pharmacy,3,13299,6,33,10.0,13,53,40800
+GP-0775,Retail Pharmacy KAR-0775,Karachi,Retail Pharmacy,21,86599,23,1,3.5,47,9,1922600
+GP-0776,Retail Pharmacy LAH-0776,Lahore,Retail Pharmacy,4,24615,5,21,9.9,24,48,95000
+GP-0777,Retail Pharmacy KAR-0777,Karachi,Retail Pharmacy,7,28939,14,13,4.4,42,13,206200
+GP-0778,Distributor RAW-0778,Rawalpindi,Distributor,20,95837,27,2,2.6,62,5,1967800
+GP-0779,Retail Pharmacy QUE-0779,Quetta,Retail Pharmacy,4,7000,5,14,7.3,34,53,28700
+GP-0780,Retail Pharmacy MUL-0780,Multan,Retail Pharmacy,4,12483,5,20,5.1,20,59,52300
+GP-0781,Retail Pharmacy PES-0781,Peshawar,Retail Pharmacy,12,53499,11,15,1.9,14,6,642000
+GP-0782,Retail Pharmacy FAI-0782,Faisalabad,Retail Pharmacy,3,19595,7,20,4.3,15,42,60500
+GP-0783,Retail Pharmacy KAR-0783,Karachi,Retail Pharmacy,13,37733,16,16,1.8,84,16,477700
+GP-0784,Distributor KAR-0784,Karachi,Distributor,12,70141,13,11,5.0,38,8,798200
+GP-0785,Hospital Pharmacy MUL-0785,Multan,Hospital Pharmacy,3,29273,11,19,7.9,24,58,86000
+GP-0786,Retail Pharmacy SIA-0786,Sialkot,Retail Pharmacy,5,55672,13,10,1.3,38,2,285300
+GP-0787,Retail Pharmacy RAW-0787,Rawalpindi,Retail Pharmacy,3,21359,8,21,9.8,25,40,66600
+GP-0788,Retail Pharmacy KAR-0788,Karachi,Retail Pharmacy,11,46913,12,8,3.3,57,16,524600
+GP-0789,Retail Pharmacy PES-0789,Peshawar,Retail Pharmacy,1,25016,4,25,6.9,31,52,23900
+GP-0790,Retail Pharmacy LAH-0790,Lahore,Retail Pharmacy,11,57762,17,4,1.7,68,14,634500
+GP-0791,Retail Pharmacy KAR-0791,Karachi,Retail Pharmacy,25,93747,26,4,2.6,78,4,2453300
+GP-0792,Distributor LAH-0792,Lahore,Distributor,14,46406,14,12,3.2,76,19,681500
+GP-0793,Hospital Pharmacy ISL-0793,Islamabad,Hospital Pharmacy,9,47268,11,9,5.1,46,6,420200
+GP-0794,Retail Pharmacy HYD-0794,Hyderabad,Retail Pharmacy,16,80654,24,0,0.1,57,8,1269500
+GP-0795,Retail Pharmacy FAI-0795,Faisalabad,Retail Pharmacy,14,79733,21,0,0.0,37,7,1172500
+GP-0796,Hospital Pharmacy PES-0796,Peshawar,Hospital Pharmacy,13,46614,7,12,5.9,47,26,604400
+GP-0797,Retail Pharmacy PES-0797,Peshawar,Retail Pharmacy,15,63078,25,2,3.3,70,0,964800
+GP-0798,Hospital Pharmacy FAI-0798,Faisalabad,Hospital Pharmacy,20,107704,27,1,3.2,92,3,2055200
+GP-0799,Retail Pharmacy KAR-0799,Karachi,Retail Pharmacy,7,45355,8,8,3.3,37,10,306900
+GP-0800,Retail Pharmacy KAR-0800,Karachi,Retail Pharmacy,14,41559,11,18,3.7,52,12,597000
+GP-0801,Hospital Pharmacy MUL-0801,Multan,Hospital Pharmacy,13,57131,18,10,7.2,7,10,740400
+GP-0802,Hospital Pharmacy LAH-0802,Lahore,Hospital Pharmacy,10,58232,9,8,5.2,7,3,571800
+GP-0803,Distributor HYD-0803,Hyderabad,Distributor,4,31623,10,21,8.1,33,34,127800
+GP-0804,Retail Pharmacy KAR-0804,Karachi,Retail Pharmacy,12,42987,11,9,5.3,10,11,526700
+GP-0805,Hospital Pharmacy KAR-0805,Karachi,Hospital Pharmacy,24,63469,29,7,0.0,58,0,1609600
+GP-0806,Distributor ISL-0806,Islamabad,Distributor,26,62766,24,2,3.1,81,10,1647300
+GP-0807,Retail Pharmacy ISL-0807,Islamabad,Retail Pharmacy,6,24396,15,9,3.7,45,7,153400
+GP-0808,Retail Pharmacy SIA-0808,Sialkot,Retail Pharmacy,24,73640,21,4,2.1,31,0,1821200
+GP-0809,Hospital Pharmacy SIA-0809,Sialkot,Hospital Pharmacy,14,48756,15,1,4.7,42,12,681500
+GP-0810,Retail Pharmacy KAR-0810,Karachi,Retail Pharmacy,6,16740,2,16,8.5,3,34,94800
+GP-0811,Retail Pharmacy HYD-0811,Hyderabad,Retail Pharmacy,23,56656,16,7,1.9,35,5,1225900
+GP-0812,Distributor MUL-0812,Multan,Distributor,30,107892,23,0,3.4,37,0,3061600
+GP-0813,Distributor PES-0813,Peshawar,Distributor,4,23512,9,19,7.8,27,41,89700
+GP-0814,Retail Pharmacy LAH-0814,Lahore,Retail Pharmacy,7,47726,10,12,4.1,86,21,337800
+GP-0815,Retail Pharmacy ISL-0815,Islamabad,Retail Pharmacy,26,59319,27,0,2.4,87,3,1488500
+GP-0816,Distributor RAW-0816,Rawalpindi,Distributor,4,33985,15,26,4.4,19,39,139400
+GP-0817,Hospital Pharmacy ISL-0817,Islamabad,Hospital Pharmacy,3,37970,7,22,8.8,43,60,107700
+GP-0818,Retail Pharmacy HYD-0818,Hyderabad,Retail Pharmacy,12,51142,16,2,5.2,6,10,584400
+GP-0819,Retail Pharmacy HYD-0819,Hyderabad,Retail Pharmacy,9,33332,11,8,2.9,33,11,296100
+GP-0820,Distributor KAR-0820,Karachi,Distributor,11,48394,13,2,2.2,42,5,530100
+GP-0821,Distributor HYD-0821,Hyderabad,Distributor,15,95441,29,2,3.3,70,5,1507400
+GP-0822,Retail Pharmacy HYD-0822,Hyderabad,Retail Pharmacy,11,47638,8,11,4.8,55,15,525900
+GP-0823,Retail Pharmacy RAW-0823,Rawalpindi,Retail Pharmacy,8,31115,5,10,4.6,6,10,246600
+GP-0824,Retail Pharmacy RAW-0824,Rawalpindi,Retail Pharmacy,11,37986,12,13,4.1,22,23,412800
+GP-0825,Retail Pharmacy PES-0825,Peshawar,Retail Pharmacy,4,18491,6,16,8.0,38,22,78300
+GP-0826,Retail Pharmacy FAI-0826,Faisalabad,Retail Pharmacy,22,72583,19,3,1.9,56,6,1635600
+GP-0827,Hospital Pharmacy PES-0827,Peshawar,Hospital Pharmacy,11,49277,19,7,2.9,60,25,574500
+GP-0828,Retail Pharmacy KAR-0828,Karachi,Retail Pharmacy,22,66595,21,6,0.7,57,9,1533100
+GP-0829,Retail Pharmacy PES-0829,Peshawar,Retail Pharmacy,4,20598,8,20,3.7,17,65,83000
+GP-0830,Hospital Pharmacy HYD-0830,Hyderabad,Hospital Pharmacy,8,53879,12,9,3.2,6,22,430500
+GP-0831,Hospital Pharmacy KAR-0831,Karachi,Hospital Pharmacy,9,34127,18,20,4.4,19,9,308200
+GP-0832,Retail Pharmacy SIA-0832,Sialkot,Retail Pharmacy,9,34517,15,0,3.9,25,13,317700
+GP-0833,Retail Pharmacy PES-0833,Peshawar,Retail Pharmacy,15,30190,15,11,3.4,37,12,453800
+GP-0834,Retail Pharmacy KAR-0834,Karachi,Retail Pharmacy,8,32064,10,5,4.6,40,13,248700
+GP-0835,Distributor LAH-0835,Lahore,Distributor,10,64436,17,9,2.9,50,17,651100
+GP-0836,Distributor SIA-0836,Sialkot,Distributor,9,52360,15,16,5.8,27,38,474400
+GP-0837,Retail Pharmacy KAR-0837,Karachi,Retail Pharmacy,2,20588,7,12,8.1,25,39,40300
+GP-0838,Distributor MUL-0838,Multan,Distributor,1,9996,9,15,6.9,21,49,10500
+GP-0839,Retail Pharmacy QUE-0839,Quetta,Retail Pharmacy,13,41376,9,2,2.1,11,15,568700
+GP-0840,Retail Pharmacy KAR-0840,Karachi,Retail Pharmacy,10,42605,9,13,3.0,42,16,437500
+GP-0841,Retail Pharmacy KAR-0841,Karachi,Retail Pharmacy,21,77957,26,0,1.7,39,7,1598800
+GP-0842,Distributor KAR-0842,Karachi,Distributor,4,25802,9,20,7.1,12,30,107100
+GP-0843,Retail Pharmacy LAH-0843,Lahore,Retail Pharmacy,10,38219,10,13,5.2,6,2,391700
+GP-0844,Distributor KAR-0844,Karachi,Distributor,14,63178,16,2,3.2,22,17,887200
+GP-0845,Distributor KAR-0845,Karachi,Distributor,13,101088,22,2,0.7,64,6,1317500
+GP-0846,Retail Pharmacy FAI-0846,Faisalabad,Retail Pharmacy,4,16009,6,21,10.2,30,41,60800
+GP-0847,Retail Pharmacy FAI-0847,Faisalabad,Retail Pharmacy,9,40119,9,12,3.5,27,12,344600
+GP-0848,Hospital Pharmacy KAR-0848,Karachi,Hospital Pharmacy,6,55812,18,7,5.1,34,25,345900
+GP-0849,Hospital Pharmacy KAR-0849,Karachi,Hospital Pharmacy,21,77505,23,9,2.7,72,6,1635600
+GP-0850,Retail Pharmacy RAW-0850,Rawalpindi,Retail Pharmacy,5,22715,5,26,6.4,64,49,111800
+GP-0851,Retail Pharmacy QUE-0851,Quetta,Retail Pharmacy,20,111391,19,1,1.0,79,5,2139000
+GP-0852,Distributor MUL-0852,Multan,Distributor,14,96029,20,8,0.8,69,0,1391000
+GP-0853,Retail Pharmacy SIA-0853,Sialkot,Retail Pharmacy,2,19724,6,28,5.3,19,57,41300
+GP-0854,Distributor KAR-0854,Karachi,Distributor,7,20563,9,15,5.3,9,31,138100
+GP-0855,Hospital Pharmacy FAI-0855,Faisalabad,Hospital Pharmacy,17,97487,21,0,2.8,65,3,1610300
+GP-0856,Retail Pharmacy PES-0856,Peshawar,Retail Pharmacy,7,54761,13,6,2.8,20,12,384900
+GP-0857,Retail Pharmacy LAH-0857,Lahore,Retail Pharmacy,13,54785,14,8,3.5,71,20,694200
+GP-0858,Retail Pharmacy KAR-0858,Karachi,Retail Pharmacy,7,11680,9,22,5.5,3,29,77400
+GP-0859,Retail Pharmacy RAW-0859,Rawalpindi,Retail Pharmacy,13,36951,11,4,7.9,54,13,467700
+GP-0860,Retail Pharmacy LAH-0860,Lahore,Retail Pharmacy,10,39228,13,6,4.6,15,9,406300
+GP-0861,Retail Pharmacy KAR-0861,Karachi,Retail Pharmacy,10,27833,14,9,5.6,17,29,274000
+GP-0862,Hospital Pharmacy FAI-0862,Faisalabad,Hospital Pharmacy,15,48055,17,9,4.0,60,15,692800
+GP-0863,Retail Pharmacy KAR-0863,Karachi,Retail Pharmacy,4,18039,2,27,7.2,18,52,73400
+GP-0864,Hospital Pharmacy PES-0864,Peshawar,Hospital Pharmacy,12,45830,17,10,4.3,11,12,518300
+GP-0865,Retail Pharmacy FAI-0865,Faisalabad,Retail Pharmacy,13,75723,28,3,4.2,69,8,978800
+GP-0866,Retail Pharmacy RAW-0866,Rawalpindi,Retail Pharmacy,3,17372,8,30,5.4,17,25,53900
+GP-0867,Retail Pharmacy KAR-0867,Karachi,Retail Pharmacy,3,18297,7,18,6.2,3,48,55000
+GP-0868,Retail Pharmacy FAI-0868,Faisalabad,Retail Pharmacy,4,12844,6,8,8.3,20,32,49500
+GP-0869,Retail Pharmacy FAI-0869,Faisalabad,Retail Pharmacy,18,90426,24,5,1.4,89,11,1573800
+GP-0870,Retail Pharmacy HYD-0870,Hyderabad,Retail Pharmacy,15,85445,22,6,1.9,71,5,1353500
+GP-0871,Retail Pharmacy KAR-0871,Karachi,Retail Pharmacy,10,39334,12,17,3.3,6,13,388000
+GP-0872,Distributor KAR-0872,Karachi,Distributor,20,115744,28,6,3.4,56,9,2223300
+GP-0873,Hospital Pharmacy ISL-0873,Islamabad,Hospital Pharmacy,7,32847,12,27,4.2,29,53,239200
+GP-0874,Retail Pharmacy LAH-0874,Lahore,Retail Pharmacy,11,42124,15,0,5.8,75,17,472200
+GP-0875,Retail Pharmacy FAI-0875,Faisalabad,Retail Pharmacy,10,47764,12,6,2.3,49,12,449000
+GP-0876,Retail Pharmacy PES-0876,Peshawar,Retail Pharmacy,3,17316,7,28,4.4,38,33,54200
+GP-0877,Retail Pharmacy KAR-0877,Karachi,Retail Pharmacy,14,49640,14,20,3.3,55,2,729600
+GP-0878,Retail Pharmacy RAW-0878,Rawalpindi,Retail Pharmacy,10,40527,11,8,2.8,57,18,425700
+GP-0879,Retail Pharmacy KAR-0879,Karachi,Retail Pharmacy,6,42962,20,16,4.6,53,12,268900
+GP-0880,Retail Pharmacy KAR-0880,Karachi,Retail Pharmacy,10,43214,15,7,4.5,6,4,452400
+GP-0881,Retail Pharmacy KAR-0881,Karachi,Retail Pharmacy,13,48583,19,7,3.3,57,19,632200
+GP-0882,Retail Pharmacy KAR-0882,Karachi,Retail Pharmacy,14,48338,12,12,4.5,34,18,693500
+GP-0883,Retail Pharmacy QUE-0883,Quetta,Retail Pharmacy,5,12971,6,28,3.5,23,63,65200
+GP-0884,Distributor KAR-0884,Karachi,Distributor,8,31434,17,8,3.8,63,4,246500
+GP-0885,Retail Pharmacy ISL-0885,Islamabad,Retail Pharmacy,20,62151,22,3,4.6,49,0,1248000
+GP-0886,Retail Pharmacy MUL-0886,Multan,Retail Pharmacy,13,32189,13,2,1.5,22,22,399700
+GP-0887,Retail Pharmacy LAH-0887,Lahore,Retail Pharmacy,14,49509,14,4,2.8,73,28,679400
+GP-0888,Retail Pharmacy LAH-0888,Lahore,Retail Pharmacy,10,75464,26,6,1.5,12,0,752900
+GP-0889,Hospital Pharmacy MUL-0889,Multan,Hospital Pharmacy,24,80452,26,2,0.7,74,6,1888900
+GP-0890,Retail Pharmacy MUL-0890,Multan,Retail Pharmacy,9,45450,10,18,4.3,42,17,420100
+GP-0891,Retail Pharmacy KAR-0891,Karachi,Retail Pharmacy,12,26578,7,10,4.9,38,15,324700
+GP-0892,Hospital Pharmacy RAW-0892,Rawalpindi,Hospital Pharmacy,2,26335,5,25,6.2,37,28,49600
+GP-0893,Retail Pharmacy ISL-0893,Islamabad,Retail Pharmacy,18,58482,16,3,2.2,73,7,989700
+GP-0894,Retail Pharmacy KAR-0894,Karachi,Retail Pharmacy,18,60822,19,3,4.9,30,5,1145200
+GP-0895,Hospital Pharmacy ISL-0895,Islamabad,Hospital Pharmacy,3,29669,7,22,4.2,14,44,89300
+GP-0896,Retail Pharmacy QUE-0896,Quetta,Retail Pharmacy,4,19360,3,27,8.5,44,40,77600
+GP-0897,Retail Pharmacy KAR-0897,Karachi,Retail Pharmacy,11,40160,10,13,3.5,6,19,450600
+GP-0898,Retail Pharmacy KAR-0898,Karachi,Retail Pharmacy,21,53443,22,5,1.9,17,8,1186300
+GP-0899,Distributor PES-0899,Peshawar,Distributor,17,103686,27,2,0.0,37,8,1735900
+GP-0900,Retail Pharmacy LAH-0900,Lahore,Retail Pharmacy,15,45111,10,9,1.7,27,19,642100
+GP-0901,Retail Pharmacy KAR-0901,Karachi,Retail Pharmacy,10,45548,10,10,6.9,35,20,476200
+GP-0902,Retail Pharmacy KAR-0902,Karachi,Retail Pharmacy,7,45252,15,12,1.8,37,15,329100
+GP-0903,Retail Pharmacy LAH-0903,Lahore,Retail Pharmacy,19,68929,23,4,0.8,24,7,1372100
+GP-0904,Retail Pharmacy KAR-0904,Karachi,Retail Pharmacy,15,60916,9,13,5.1,31,22,920400
+GP-0905,Retail Pharmacy LAH-0905,Lahore,Retail Pharmacy,1,25190,6,26,7.4,23,54,24600
+GP-0906,Retail Pharmacy HYD-0906,Hyderabad,Retail Pharmacy,11,35718,8,5,3.9,6,18,398100
+GP-0907,Retail Pharmacy KAR-0907,Karachi,Retail Pharmacy,10,52386,14,15,6.6,51,2,499900
+GP-0908,Retail Pharmacy LAH-0908,Lahore,Retail Pharmacy,20,74420,24,6,1.6,71,5,1536500
+GP-0909,Retail Pharmacy LAH-0909,Lahore,Retail Pharmacy,13,52755,12,0,2.9,35,15,679000
+GP-0910,Retail Pharmacy KAR-0910,Karachi,Retail Pharmacy,7,54004,9,10,5.4,54,23,387900
+GP-0911,Hospital Pharmacy FAI-0911,Faisalabad,Hospital Pharmacy,5,10144,7,28,10.2,23,41,52300
+GP-0912,Retail Pharmacy LAH-0912,Lahore,Retail Pharmacy,4,26844,3,21,7.1,46,62,105300
+GP-0913,Hospital Pharmacy LAH-0913,Lahore,Hospital Pharmacy,5,22112,9,28,5.6,27,38,108100
+GP-0914,Retail Pharmacy MUL-0914,Multan,Retail Pharmacy,4,23716,6,19,5.9,20,69,91900
+GP-0915,Retail Pharmacy LAH-0915,Lahore,Retail Pharmacy,5,24896,7,38,3.8,8,39,122300
+GP-0916,Retail Pharmacy KAR-0916,Karachi,Retail Pharmacy,6,31007,7,38,3.7,40,45,196200
+GP-0917,Retail Pharmacy KAR-0917,Karachi,Retail Pharmacy,20,75517,18,3,1.8,42,9,1482700
+GP-0918,Retail Pharmacy KAR-0918,Karachi,Retail Pharmacy,21,67593,14,4,2.5,43,1,1437300
+GP-0919,Retail Pharmacy ISL-0919,Islamabad,Retail Pharmacy,12,44225,13,2,0.2,73,8,552900
+GP-0920,Retail Pharmacy LAH-0920,Lahore,Retail Pharmacy,6,41026,17,11,1.4,66,12,231500
+GP-0921,Retail Pharmacy KAR-0921,Karachi,Retail Pharmacy,16,76287,23,1,1.9,83,8,1283800
+GP-0922,Distributor FAI-0922,Faisalabad,Distributor,2,18341,9,11,3.2,26,54,38200
+GP-0923,Retail Pharmacy RAW-0923,Rawalpindi,Retail Pharmacy,16,33297,12,7,2.9,54,10,544300
+GP-0924,Retail Pharmacy ISL-0924,Islamabad,Retail Pharmacy,7,39699,10,14,2.0,26,5,275700
+GP-0925,Distributor ISL-0925,Islamabad,Distributor,22,98460,28,0,2.2,38,0,2102400
+GP-0926,Retail Pharmacy RAW-0926,Rawalpindi,Retail Pharmacy,12,50488,13,8,3.1,34,17,613200
+GP-0927,Retail Pharmacy KAR-0927,Karachi,Retail Pharmacy,18,91260,25,5,2.8,88,6,1622300
+GP-0928,Hospital Pharmacy QUE-0928,Quetta,Hospital Pharmacy,2,18292,8,11,5.1,17,62,35600
+GP-0929,Retail Pharmacy ISL-0929,Islamabad,Retail Pharmacy,10,42463,11,7,0.8,34,24,436100
+GP-0930,Retail Pharmacy KAR-0930,Karachi,Retail Pharmacy,9,42078,15,11,3.3,56,8,383700
+GP-0931,Retail Pharmacy KAR-0931,Karachi,Retail Pharmacy,9,67261,11,12,4.8,55,11,591100
+GP-0932,Distributor LAH-0932,Lahore,Distributor,7,66983,14,0,2.8,33,28,467500
+GP-0933,Hospital Pharmacy HYD-0933,Hyderabad,Hospital Pharmacy,7,31680,14,12,3.3,38,18,234400
+GP-0934,Retail Pharmacy FAI-0934,Faisalabad,Retail Pharmacy,7,21048,4,23,7.9,24,45,142700
+GP-0935,Hospital Pharmacy RAW-0935,Rawalpindi,Hospital Pharmacy,6,24096,9,30,5.4,27,54,152800
+GP-0936,Hospital Pharmacy KAR-0936,Karachi,Hospital Pharmacy,18,84413,24,3,0.0,61,10,1474400
+GP-0937,Distributor ISL-0937,Islamabad,Distributor,3,23909,12,30,7.8,22,59,70600
+GP-0938,Retail Pharmacy KAR-0938,Karachi,Retail Pharmacy,15,85368,22,0,1.5,72,7,1288100
+GP-0939,Retail Pharmacy PES-0939,Peshawar,Retail Pharmacy,3,18186,5,31,9.7,51,46,57200
+GP-0940,Retail Pharmacy MUL-0940,Multan,Retail Pharmacy,24,73554,19,1,3.1,64,3,1806700
+GP-0941,Retail Pharmacy KAR-0941,Karachi,Retail Pharmacy,9,48054,14,14,4.3,50,14,454600
+GP-0942,Retail Pharmacy ISL-0942,Islamabad,Retail Pharmacy,4,25304,8,14,6.3,36,41,106400
+GP-0943,Distributor KAR-0943,Karachi,Distributor,22,97153,23,2,0.8,41,10,2095400
+GP-0944,Hospital Pharmacy ISL-0944,Islamabad,Hospital Pharmacy,11,47802,13,14,5.6,14,24,530200
+GP-0945,Retail Pharmacy ISL-0945,Islamabad,Retail Pharmacy,10,50480,13,9,4.2,27,22,521600
+GP-0946,Retail Pharmacy LAH-0946,Lahore,Retail Pharmacy,15,89013,20,8,1.6,45,0,1265200
+GP-0947,Retail Pharmacy PES-0947,Peshawar,Retail Pharmacy,10,35874,7,2,3.0,34,12,368700
+GP-0948,Distributor MUL-0948,Multan,Distributor,3,35430,12,10,5.3,26,38,102500
+GP-0949,Distributor KAR-0949,Karachi,Distributor,4,40130,9,26,4.3,15,39,160300
+GP-0950,Distributor ISL-0950,Islamabad,Distributor,8,65537,11,3,6.9,76,12,503200
+GP-0951,Distributor LAH-0951,Lahore,Distributor,10,56906,17,14,4.8,24,15,582600
+GP-0952,Hospital Pharmacy PES-0952,Peshawar,Hospital Pharmacy,21,88361,27,0,1.5,28,1,1905600
+GP-0953,Hospital Pharmacy ISL-0953,Islamabad,Hospital Pharmacy,20,102347,25,1,2.5,86,6,1956600
+GP-0954,Distributor MUL-0954,Multan,Distributor,19,60936,31,5,0.7,83,2,1115500
+GP-0955,Retail Pharmacy PES-0955,Peshawar,Retail Pharmacy,4,25035,8,30,9.0,14,50,100100
+GP-0956,Hospital Pharmacy PES-0956,Peshawar,Hospital Pharmacy,3,16535,7,27,3.5,5,76,51800
+GP-0957,Retail Pharmacy ISL-0957,Islamabad,Retail Pharmacy,5,19667,5,28,7.0,12,64,101500
+GP-0958,Retail Pharmacy LAH-0958,Lahore,Retail Pharmacy,9,51324,13,15,4.7,28,25,480200
+GP-0959,Retail Pharmacy LAH-0959,Lahore,Retail Pharmacy,11,49279,13,10,4.4,48,14,520800
+GP-0960,Retail Pharmacy LAH-0960,Lahore,Retail Pharmacy,9,31093,16,8,4.4,44,23,280500
+GP-0961,Hospital Pharmacy KAR-0961,Karachi,Hospital Pharmacy,14,49308,17,16,4.6,39,13,726900
+GP-0962,Retail Pharmacy PES-0962,Peshawar,Retail Pharmacy,9,40076,12,20,4.8,33,3,352600
+GP-0963,Retail Pharmacy LAH-0963,Lahore,Retail Pharmacy,23,80418,26,7,1.3,71,8,1779800
+GP-0964,Retail Pharmacy FAI-0964,Faisalabad,Retail Pharmacy,13,78908,23,0,2.0,90,9,968400
+GP-0965,Retail Pharmacy LAH-0965,Lahore,Retail Pharmacy,5,17440,3,24,9.2,18,35,86800
+GP-0966,Retail Pharmacy FAI-0966,Faisalabad,Retail Pharmacy,14,34987,12,8,4.4,12,11,491200
+GP-0967,Retail Pharmacy SIA-0967,Sialkot,Retail Pharmacy,2,27696,7,16,5.1,32,31,55700
+GP-0968,Retail Pharmacy RAW-0968,Rawalpindi,Retail Pharmacy,17,89945,20,4,1.2,82,0,1455900
+GP-0969,Hospital Pharmacy KAR-0969,Karachi,Hospital Pharmacy,9,46431,19,5,5.6,24,21,407000
+GP-0970,Retail Pharmacy FAI-0970,Faisalabad,Retail Pharmacy,18,94589,24,3,2.4,77,5,1667800
+GP-0971,Retail Pharmacy KAR-0971,Karachi,Retail Pharmacy,12,35413,9,9,1.3,48,16,410400
+GP-0972,Hospital Pharmacy QUE-0972,Quetta,Hospital Pharmacy,17,91725,23,4,2.9,35,7,1633400
+GP-0973,Retail Pharmacy LAH-0973,Lahore,Retail Pharmacy,23,90650,27,4,1.5,22,5,2096400
+GP-0974,Retail Pharmacy LAH-0974,Lahore,Retail Pharmacy,5,12905,4,34,5.8,22,54,68400
+GP-0975,Retail Pharmacy RAW-0975,Rawalpindi,Retail Pharmacy,14,51695,12,5,4.7,9,23,725600
+GP-0976,Retail Pharmacy HYD-0976,Hyderabad,Retail Pharmacy,8,33923,17,14,4.4,63,26,264800
+GP-0977,Retail Pharmacy MUL-0977,Multan,Retail Pharmacy,13,45869,10,10,0.5,55,4,609000
+GP-0978,Hospital Pharmacy KAR-0978,Karachi,Hospital Pharmacy,13,53547,19,12,4.4,12,18,690000
+GP-0979,Hospital Pharmacy FAI-0979,Faisalabad,Hospital Pharmacy,10,40199,13,18,3.0,29,24,404800
+GP-0980,Distributor QUE-0980,Quetta,Distributor,13,101516,27,6,1.4,104,5,1300200
+GP-0981,Retail Pharmacy QUE-0981,Quetta,Retail Pharmacy,5,11538,5,15,9.5,15,41,57400
+GP-0982,Retail Pharmacy KAR-0982,Karachi,Retail Pharmacy,6,24452,6,28,5.7,10,78,146600
+GP-0983,Retail Pharmacy SIA-0983,Sialkot,Retail Pharmacy,9,23775,10,12,4.3,28,16,216600
+GP-0984,Retail Pharmacy LAH-0984,Lahore,Retail Pharmacy,10,47719,13,6,5.2,61,19,479000
+GP-0985,Retail Pharmacy RAW-0985,Rawalpindi,Retail Pharmacy,18,80463,22,0,0.0,12,0,1517200
+GP-0986,Hospital Pharmacy FAI-0986,Faisalabad,Hospital Pharmacy,2,24610,5,14,6.5,21,32,51600
+GP-0987,Retail Pharmacy PES-0987,Peshawar,Retail Pharmacy,10,33155,8,3,3.5,6,21,346800
+GP-0988,Hospital Pharmacy RAW-0988,Rawalpindi,Hospital Pharmacy,18,97282,28,0,2.4,63,5,1790200
+GP-0989,Distributor LAH-0989,Lahore,Distributor,9,59065,17,13,5.0,52,18,559400
+GP-0990,Retail Pharmacy LAH-0990,Lahore,Retail Pharmacy,6,17812,4,26,4.6,32,47,111300
+GP-0991,Retail Pharmacy SIA-0991,Sialkot,Retail Pharmacy,4,39397,17,9,5.1,6,17,152900
+GP-0992,Retail Pharmacy KAR-0992,Karachi,Retail Pharmacy,2,18519,4,16,7.1,16,67,35200
+GP-0993,Retail Pharmacy LAH-0993,Lahore,Retail Pharmacy,2,19318,5,18,7.5,16,52,38100
+GP-0994,Retail Pharmacy SIA-0994,Sialkot,Retail Pharmacy,16,66112,18,6,2.0,104,3,1089900
+GP-0995,Retail Pharmacy FAI-0995,Faisalabad,Retail Pharmacy,3,27884,4,32,6.0,8,41,84500
+GP-0996,Retail Pharmacy RAW-0996,Rawalpindi,Retail Pharmacy,9,38428,14,12,3.3,33,11,360800
+GP-0997,Retail Pharmacy KAR-0997,Karachi,Retail Pharmacy,7,29661,13,11,5.6,86,25,204800
+GP-0998,Retail Pharmacy ISL-0998,Islamabad,Retail Pharmacy,22,79540,24,0,2.0,63,6,1760500
+GP-0999,Retail Pharmacy FAI-0999,Faisalabad,Retail Pharmacy,2,25682,2,28,6.0,4,22,50000
+GP-1000,Distributor KAR-1000,Karachi,Distributor,9,49125,19,12,3.3,69,8,431100
